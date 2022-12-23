@@ -9,10 +9,10 @@ excerpt: "MinJae Kim"
 #toc: true
 #toc_label: "My Table of Contents"
 ---
-
+<!--
 Materials Scientist\
 <a href="mailto:mj3259@kaist.ac.kr">mj3259@kaist.ac.kr</a>
-
+-->
 <object data="/assets/pdf/cv.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="/assets/pdf/cv.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/cv.pdf">Download PDF</a>.</p>
