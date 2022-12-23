@@ -6,11 +6,13 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.6"
   overlay_image: /assets/images/teaser.jpg
+  <!--
   actions:
     - label: "<i class='fas fa-download'></i> CV"
       url: "/assets/pdf/cv.pdf"
     - label: "<i class='fas fa-download'></i> Portfolio"
       url: "/assets/pdf/portfolio.pdf"
+  -->
 excerpt: >
   *Undergraduate, Dept. of Materials Science and Engineering, KAIST, Republic of Korea.*<br />
   Interested in flexible optoelectronics, perovskite optoelectronics, and nanomaterial synthesis and applications
