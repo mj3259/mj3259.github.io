@@ -19,7 +19,7 @@ Materials Scientist\
     </embed>
 </object>
 
-\\<!--
+<!--
 {% include toc %}
 
 # Education
