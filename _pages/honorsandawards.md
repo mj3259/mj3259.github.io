@@ -1,6 +1,6 @@
 ---
 title: Honors and Awards
-layout: collection
+layout: compress
 permalink: /honorsandawards/
 collection: portfolio
 entries_layout: grid
