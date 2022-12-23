@@ -19,7 +19,7 @@ Materials Scientist\
     </embed>
 </object>
 
-
+\\<!--
 {% include toc %}
 
 # Education
@@ -112,3 +112,6 @@ __Samsung Dreamclass at Hanyang University ERICA__, `Dec. 2019 – Jan. 2020`
   - Supervised two programming team, won gold and silver award respectively
 {% endcapture %}
 <div class="notice">{{ notice-2 | markdownify }}</div>
+
+
+-->
