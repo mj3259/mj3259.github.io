@@ -6,12 +6,18 @@ collection: cv
 entries_layout: grid
 classes: wide
 excerpt: "MinJae Kim"
-toc: true
-toc_label: "My Table of Contents"
+#toc: true
+#toc_label: "My Table of Contents"
 ---
 
 Materials Scientist\
 <a href="mailto:mj3259@kaist.ac.kr">mj3259@kaist.ac.kr</a>
+
+<object data="https://github.com/mj3259/mj3259.github.io/blob/main/assets/pdf/cv.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/mj3259/mj3259.github.io/blob/main/assets/pdf/cv.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/mj3259/mj3259.github.io/blob/main/assets/pdf/cv.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 
 {% include toc %}
