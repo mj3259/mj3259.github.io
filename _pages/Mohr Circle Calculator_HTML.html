@@ -1,0 +1,444 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+   <meta charset="utf-8"> 
+    <script type="text/javascript">
+
+        var sigmax=0;   //σx 입력값
+        var sigmay=0;   //σy 입력값
+        var tauxy=0;    //τxy 입력값   
+        var sigmaavg=0; //(σx+σy)/2
+        var sigmasub=0; //(σx-σy)/2
+        var taumax=0;
+        var sigmap1=0;
+        var sigmap2=0;
+        var thetap1=0;
+        var thetap2=0;
+        var thetaptemp=0;
+        var thetas=0;
+        var thetastemp=0;
+        var theta=0;
+        var sigmaxprime=0;
+        var sigmayprime=0;
+        var tauxyprime=0;
+        var canvas;
+        var context;
+        var canvasfbd;
+        var contextfbd;
+        var canvaswidth=800;
+        var canvasheight=494;
+
+        var radius=0;
+        var xmov=0;
+
+
+        function text_refresh(comp_id, number) {
+            document.getElementById(comp_id).innerHTML = number;
+        }
+   </script>
+</head>
+
+
+<body onload="coordinationaxisplot();">
+
+   <script>
+    function start(){
+        canvas=document.getElementById("mohrcanvas");
+        context=canvas.getContext("2d");
+        canvasfbd=document.getElementById("FBDia");
+        contextfbd=canvasfbd.getContext("2d");
+
+        context.clearRect(0, 0, canvaswidth, canvasheight);
+        contextfbd.clearRect(0, 0, canvaswidth, canvasheight);
+        input();
+        calprincipal();
+        calprime();
+        mohrc();
+        FBdiaimg();
+    }
+   function input(){        //입력값 받아오기
+        sigmax=document.getElementById('sigmaxinput').value;
+        sigmay=document.getElementById('sigmayinput').value;
+        tauxy=document.getElementById('tauxyinput').value;
+    }
+    function anglechange() {        //Slider를 이용해서 각도 입력하기
+        var angleValue=document.getElementById('raAngle').value;
+        var angl=parseFloat(angleValue);
+        var angl2=angl.toFixed(2);
+        theta=angl2;
+        document.getElementById('opAngle').textContent=angl2+'º';
+        calprincipal();
+        calprime();
+        context.clearRect(0, 0, canvaswidth, canvasheight);
+        contextfbd.clearRect(0, 0, canvaswidth, canvasheight);
+        coordinationaxisplot();
+        mohrc();
+        FBdiaimg();
+    }
+   function calprincipal(){     //Principal section 결과계산 및 표시
+        sigmaavg=(parseFloat(sigmax)+parseFloat(sigmay))/2;
+        sigmasub=(parseFloat(sigmax)-parseFloat(sigmay))/2;
+        taumax=Math.sqrt(Math.pow(parseFloat(sigmasub), 2)+Math.pow(parseFloat(tauxy), 2));
+        sigmap1=parseFloat(sigmaavg)+parseFloat(taumax);
+        sigmap2=parseFloat(sigmaavg)-parseFloat(taumax);
+        thetaptemp=Math.atan(parseFloat(tauxy)/parseFloat(sigmasub))*90/Math.PI;
+        thetas=Math.atan((-1)*parseFloat(sigmasub)/parseFloat(tauxy))*90/Math.PI;
+
+        var thetapdet=parseFloat(parseFloat(sigmasub)*Math.cos(Math.PI*parseFloat(thetaptemp)/90))+
+                        parseFloat(parseFloat(tauxy)*Math.sin(Math.PI*parseFloat(thetaptemp)/90));
+
+        if(thetapdet>=0){
+            thetap1=thetaptemp;
+            thetap2=thetaptemp+90;
+        }
+        else{
+            thetap2=thetaptemp;
+            thetap1=thetaptemp+90;
+        }
+
+        text_refresh('sigmap1print', Number(sigmap1));
+        text_refresh('sigmap2print', Number(sigmap2));
+        text_refresh('taumaxprint', Number(taumax));
+        text_refresh('thetap1print', Number(thetap1));
+        text_refresh('thetap2print', Number(thetap2));
+        text_refresh('thetasprint', Number(thetas));
+
+    }
+    function calprime(){        //Deformed Coordination 결과계산 및 표시
+        sigmaxprime=parseFloat(sigmaavg)+parseFloat(sigmasub)*Math.cos(parseFloat(theta)*Math.PI/90)+parseFloat(tauxy)*Math.sin(parseFloat(theta)*Math.PI/90);
+        sigmayprime=parseFloat(sigmaavg)-parseFloat(sigmasub)*Math.cos(parseFloat(theta)*Math.PI/90)-parseFloat(tauxy)*Math.sin(parseFloat(theta)*Math.PI/90);
+        tauxyprime=parseFloat(tauxy)*Math.cos(parseFloat(theta)*Math.PI/90)-parseFloat(sigmasub)*Math.sin(parseFloat(theta)*Math.PI/90);
+
+        text_refresh('sigmaxprime', Number(sigmaxprime));
+        text_refresh('sigmayprime', Number(sigmayprime));
+        text_refresh('tauxyprime', Number(tauxyprime));
+    }
+    function coordinationaxisplot(){    //좌표축 도시
+        canvas=document.getElementById("mohrcanvas");
+        context=canvas.getContext("2d");
+        context.beginPath();
+        context.strokeStyle="black";
+        context.lineWidth=1;
+        //x, y축
+        context.moveTo(canvaswidth/2,0);
+        context.lineTo(canvaswidth/2, canvasheight);
+        context.moveTo(0,canvasheight/2);
+        context.lineTo(canvaswidth, canvasheight/2);
+        //화살표
+        context.moveTo(canvaswidth, canvasheight/2);
+        context.lineTo(canvaswidth-15, canvasheight/2-10);
+        context.moveTo(canvaswidth, canvasheight/2);
+        context.lineTo(canvaswidth-15, canvasheight/2+10);
+        context.moveTo(canvaswidth/2, canvasheight);
+        context.lineTo(canvaswidth/2-10, canvasheight-15);
+        context.moveTo(canvaswidth/2, canvasheight);
+        context.lineTo(canvaswidth/2+10, canvasheight-15);
+        context.stroke();
+        //화살표 σ, τ 표시
+        context.beginPath();
+        context.font="bold 25px Times New Roman";
+        context.fillStyle="rgba(0, 0, 0, 1)";
+        context.fillText("σ", canvaswidth-20, canvasheight/2-15);
+        context.fillText("τ", canvaswidth/2-25, canvasheight-10);
+        context.stroke();
+    }
+    function mohrc(){       //Mohr 원 그리기
+        canvas=document.getElementById("mohrcanvas");
+        context=canvas.getContext("2d");
+        context.clearRect(0, 0, canvaswidth, canvasheight);
+        coordinationaxisplot();
+        size();
+
+        var centerx=parseFloat(xmov)+parseFloat(canvaswidth)/2;
+        var centery=parseFloat(canvasheight)/2;
+
+        //Mohr 원
+        context.beginPath();
+        context.strokeStyle="black";
+        context.lineWidth=1;
+        context.arc(centerx, parseFloat(canvasheight)/2, radius, 0, Math.PI*2);
+
+        //θp 대각선 그리기
+        context.moveTo(centerx+parseFloat(radius)*Math.cos(Math.PI*parseFloat(thetap1)/90), centery+parseFloat(radius)*Math.sin(Math.PI*parseFloat(thetap1)/90));
+        context.lineTo(centerx-parseFloat(radius)*Math.cos(Math.PI*parseFloat(thetap1)/90), centery-parseFloat(radius)*Math.sin(Math.PI*parseFloat(thetap1)/90));
+        
+        //θp 수직선 내리기
+        context.moveTo(centerx+parseFloat(radius)*Math.cos(Math.PI*parseFloat(thetap1)/90), centery+parseFloat(radius)*Math.sin(Math.PI*parseFloat(thetap1)/90));
+        context.lineTo(centerx+parseFloat(radius)*Math.cos(Math.PI*parseFloat(thetap1)/90), centery);
+        context.moveTo(centerx-parseFloat(radius)*Math.cos(Math.PI*parseFloat(thetap1)/90), centery-parseFloat(radius)*Math.sin(Math.PI*parseFloat(thetap1)/90));
+        context.lineTo(centerx-parseFloat(radius)*Math.cos(Math.PI*parseFloat(thetap1)/90), centery);
+        context.stroke();
+
+        //원호 그리기
+        context.beginPath();
+        context.strokeStyle="rgba(255, 0, 125, 0.5)";
+        context.lineWidth=3;
+        context.arc(centerx, parseFloat(canvasheight)/2, radius, Math.PI*parseFloat(thetap1)/90, (Math.PI*parseFloat(thetap1)/90)-(Math.PI*parseFloat(theta)/90), true);
+        context.stroke();
+
+        //선 표시하기
+        context.beginPath();
+        context.strokeStyle="rgba(0, 0, 255, 0.5)";
+        context.lineWidth=2;
+        context.moveTo(centerx, centery);
+        context.lineTo(centerx+radius*Math.cos((Math.PI*parseFloat(thetap1)/90)-(Math.PI*parseFloat(theta)/90)), centery+radius*Math.sin((Math.PI*parseFloat(thetap1)/90)-(Math.PI*parseFloat(theta)/90)));
+        context.stroke();
+
+        var pointx=centerx+parseFloat(radius)*Math.cos((Math.PI*parseFloat(thetap1)/90)-(Math.PI*parseFloat(theta)/90));
+        var pointy=centery+parseFloat(radius)*Math.sin((Math.PI*parseFloat(thetap1)/90)-(Math.PI*parseFloat(theta)/90));
+
+        //점 표시하기
+        context.beginPath();
+        context.lineWidth=0;
+        context.arc(pointx, pointy, 4, 0, 2*Math.PI);
+        context.closePath();
+        context.fillStyle="rgba(255, 0, 255, 0.5)";
+        context.fill();
+        context.stroke();
+
+        var pointxmohr=parseFloat(sigmaavg)+parseFloat(taumax)*Math.cos((Math.PI*parseFloat(thetap1)/90)-(Math.PI*parseFloat(theta)/90));
+        var pointymohr=parseFloat(taumax)*Math.sin((Math.PI*parseFloat(thetap1)/90)-(Math.PI*parseFloat(theta)/90));
+
+        //점 좌표 표시하기
+        context.beginPath();
+        context.font="bold 15px Times New Roman";
+        context.fillStyle="rgba(0, 0, 0, 0.7)";
+        context.fillText("("+pointxmohr.toFixed(2)+", "+pointymohr.toFixed(2)+")", pointx-35, pointy-5);
+        context.stroke();
+
+        //기본 좌표 표시하기
+        context.beginPath();
+        context.font="bold 15px Times New Roman";
+        context.fillStyle="rgba(0, 0, 255, 0.5)";
+        context.fillText("("+sigmaavg.toFixed(2)+", 0)", parseFloat(centerx)-30, parseFloat(centery)+5);
+        context.fillText("("+(parseFloat(sigmaavg)+parseFloat(taumax)).toFixed(2)+", 0)", parseFloat(centerx)+parseFloat(radius)-35, parseFloat(centery)+5);
+        context.fillText("("+(parseFloat(sigmaavg)-parseFloat(taumax)).toFixed(2)+", 0)", parseFloat(centerx)-parseFloat(radius)-35, parseFloat(centery)+5);
+        context.fillText("("+parseFloat(sigmax).toFixed(2)+", "+parseFloat(tauxy).toFixed(2)+")", centerx+parseFloat(radius)*Math.cos(Math.PI*parseFloat(thetap1)/90)-35, centery+parseFloat(radius)*Math.sin(Math.PI*parseFloat(thetap1)/90)+5);
+        context.fillText("("+parseFloat(sigmay).toFixed(2)+", "+((-1)*parseFloat(tauxy)).toFixed(2)+")", centerx-parseFloat(radius)*Math.cos(Math.PI*parseFloat(thetap1)/90)-35, centery-parseFloat(radius)*Math.sin(Math.PI*parseFloat(thetap1)/90)+5);
+        context.stroke();
+        
+    }
+    function size(){    //크기 자동조절
+        var xmargine=80;
+        var ymargine=50;
+        if(parseFloat(Math.abs(parseFloat(sigmaavg))+parseFloat(taumax))<=parseFloat(canvaswidth)/2){
+            var ratio1temp1=parseFloat(parseFloat(canvasheight)-parseFloat(ymargine))/parseFloat(2*parseFloat(taumax));
+            var ratio1temp2=parseFloat(parseFloat(canvaswidth)-parseFloat(xmargine))/parseFloat(2*parseFloat(parseFloat(taumax)+Math.abs(parseFloat(sigmaavg))));
+            var ratio1=Math.min(ratio1temp1, ratio1temp2);
+            radius=parseFloat(taumax)*parseFloat(ratio1);
+            xmov=parseFloat(sigmaavg)*parseFloat(ratio1);
+        }
+        else if(parseFloat(sigmaavg)>=0){
+            var ratio2temp1=parseFloat(parseFloat(canvaswidth)-parseFloat(xmargine))/parseFloat(2*parseFloat(parseFloat(sigmaavg)+parseFloat(taumax)));
+            var ratio2temp2=parseFloat(parseFloat(canvasheight)-parseFloat(ymargine))/parseFloat(2*parseFloat(taumax));
+            var ratio2=Math.min(ratio2temp1, ratio2temp2);
+            radius=parseFloat(taumax)*parseFloat(ratio2);
+            xmov=parseFloat(sigmaavg)*parseFloat(ratio2);
+        }
+        else if(parseFloat(sigmaavg)<0){
+            var ratio3temp1=parseFloat(parseFloat(canvaswidth)-parseFloat(xmargine))/parseFloat(2*parseFloat(parseFloat(taumax)-parseFloat(sigmaavg)));
+            var ratio3temp2=parseFloat(parseFloat(canvasheight)-parseFloat(ymargine))/parseFloat(2*parseFloat(taumax));
+            var ratio3=Math.min(ratio3temp1, ratio3temp2);
+            radius=parseFloat(taumax)*parseFloat(ratio3);
+            xmov=parseFloat(sigmaavg)*parseFloat(ratio3);
+        }
+    }
+    function FBdiaimg(){  //기본사항 표시
+        var img=new Image();
+        img.src="FBDia.png";
+        canvasfbd=document.getElementById("FBDia");
+        contextfbd=canvasfbd.getContext("2d");
+        contextfbd.save();
+
+        contextfbd.beginPath();
+        contextfbd.strokeStyle="black";
+        contextfbd.lineWidth=1;
+        //x, y축
+        contextfbd.moveTo(canvaswidth/2,0);
+        contextfbd.lineTo(canvaswidth/2, canvasheight);
+        contextfbd.moveTo(0,canvasheight/2);
+        contextfbd.lineTo(canvaswidth, canvasheight/2);
+        //화살표
+        contextfbd.moveTo(canvaswidth, canvasheight/2);
+        contextfbd.lineTo(canvaswidth-15, canvasheight/2-10);
+        contextfbd.moveTo(canvaswidth, canvasheight/2);
+        contextfbd.lineTo(canvaswidth-15, canvasheight/2+10);
+
+        contextfbd.moveTo(canvaswidth/2, 0);
+        contextfbd.lineTo(canvaswidth/2-10, 15);
+        contextfbd.moveTo(canvaswidth/2, 0);
+        contextfbd.lineTo(canvaswidth/2+10, 15);
+        contextfbd.stroke();
+        //화살표 σ, τ 표시
+        contextfbd.beginPath();
+        contextfbd.font="bold 25px Times New Roman";
+        contextfbd.fillStyle="rgba(0, 0, 0, 1)";
+        contextfbd.fillText("x", canvaswidth-20, canvasheight/2-15);
+        contextfbd.fillText("y", canvaswidth/2-25, 20);
+        contextfbd.stroke();
+
+        contextfbd.translate(canvaswidth/2, canvasheight/2);
+        contextfbd.rotate(-parseFloat(theta)*Math.PI/180);
+        contextfbd.translate(-canvaswidth/2, -canvasheight/2);
+        contextfbd.drawImage(img, canvaswidth/2-863/4+6, canvasheight/2-737/4, 863/2, 737/2);
+        contextfbd.restore();
+
+        contextfbd.beginPath();
+        contextfbd.font="bold 25px Times New Roman";
+        contextfbd.fillStyle="rgba(0, 0, 0, 1)";
+        contextfbd.fillText("σx'="+parseFloat(sigmaxprime).toFixed(2)+"MPa", 30, 50);
+        contextfbd.fillText("σy'="+parseFloat(sigmayprime).toFixed(2)+"MPa", 30, 90);
+        contextfbd.fillText("τxy'="+parseFloat(tauxyprime).toFixed(2)+"MPa", 30, 130);
+        contextfbd.stroke();
+    }
+    
+   </script>
+
+
+   <h1><b>Mohr Circle Calculator</b></h1>
+   <hr>
+   <h5>Designed by MS360 Group2: MinJae Kim, Yeonghyeon Go, Dohyeong Kim</h5>
+
+
+   <!--Data Input-->
+    <section class="inputarea">
+        <fieldset>
+            <h3>Input of σ<sub>x</sub>, σ<sub>y</sub>, τ<sub>xy</sub>, θ</h3>
+            <hr>
+            <table>
+                <tr>
+                    <td>σ<sub>x</sub></td>
+                    <td>: </td>
+                    <td><input type="number" id="sigmaxinput" name="sigmaxinput"></input></td>
+                    <td>MPa</td>
+                </tr>
+                <tr>
+                    <td>σ<sub>y</sub></td>
+                    <td>: </td>
+                    <td><input type="number" id="sigmayinput" name="sigmayinput"></input></td>
+                    <td>MPa</td>
+                </tr>
+                <tr>
+                    <td>τ<sub>xy</sub></td>
+                    <td>: </td>
+                    <td><input type="number" id="tauxyinput" name="tauxyinput"></input></td>
+                    <td>MPa</td>
+                </tr>
+                <tr>
+                    <td colspan="4"> <input type="button" value="compute" id="calculatebtn" onclick="start();"></input></td>
+                </tr>
+            </table>
+            <br>
+
+            <table>
+                <tr>
+                    <td colspan="3">
+                        Control Angle:
+                    </td>
+                </tr>
+                <tr>
+                    <td> Angle </td>
+                    <td><input type="range" id="raAngle" min=0.0 max=180.0 step="0.10" class = "slider_range" value="0.0" onchange="anglechange()"></td>
+                    <td> <output id="opAngle">0.00</output>
+                    </td>
+                </tr>
+            </table>
+
+        </fieldset>
+    </section>
+
+    <br>
+    <!--Mohr Circle-->
+    <section class="mohrcircle">
+        <fieldset>
+            <h3>Mohr Circle</h3>
+            <hr>
+            <canvas id="mohrcanvas", width="800", height="494" style="border: 2px solid black">Your browser does not support HTML5 canvas tag</canvas>
+            <canvas id="FBDia", width="800", height="494" style="border: 2px solid black"></canvas>
+        </fieldset>
+    </section>
+    <br>
+
+    <!--Principal Stress and their Direction, Maximum Shear stress and their Direction-->
+    <section class="resultp">
+        <fieldset>
+            <h3>Principal Stress, Direction, and Maximum Shear Stress</h3>
+            <hr>
+            <table>
+                <tr>
+                    <td>σ<sub>p1</sub></td>
+                    <td>: </td>
+                    <td><p id="sigmap1print"></p></td>
+                    <td>MPa</td>
+                </tr>
+                <tr>
+                    <td>σ<sub>p2</sub></td>
+                    <td>: </td>
+                    <td><p id="sigmap2print"></p></td>
+                    <td>MPa</td>
+                </tr>
+                <tr>
+                    <td>θ<sub>1</sub></td>
+                    <td>: </td>
+                    <td><p id="thetap1print"></p></td>
+                    <td>º</td>
+                </tr>
+                <tr>
+                    <td>θ<sub>2</sub></td>
+                    <td>: </td>
+                    <td><p id="thetap2print"></p></td>
+                    <td>º</td>
+                </tr>
+                <tr>
+                    <td>τ<sub>max</sub></td>
+                    <td>: </td>
+                    <td><p id="taumaxprint"></p></td>
+                    <td>MPa</td>
+                </tr>
+                <tr>
+                    <td>θ<sub>s</sub></td>
+                    <td>: </td>
+                    <td><p id="thetasprint"></p></td>
+                    <td>º</td>
+                </tr>
+            </table>
+        </fieldset>
+    </section>
+    <br>
+
+    <!--Stress in funtion of theta-->
+    <section class="result">
+        <fieldset>
+            <h3>Normal and Shear Stress in Transformed coordination system</h3>
+            <hr>
+            <table>
+                <tr>
+                    <td>σ<sub>x'</sub></td>
+                    <td>: </td>
+                    <td><p id="sigmaxprime"></p></td>
+                    <td>MPa</td>
+                </tr>
+                <tr>
+                    <td>σ<sub>y'</sub></td>
+                    <td>: </td>
+                    <td><p id="sigmayprime"></p></td>
+                    <td>MPa</td>
+                </tr>
+                <tr>
+                    <td>τ<sub>x'y'</sub></td>
+                    <td>: </td>
+                    <td><p id="tauxyprime"></p></td>
+                    <td>MPa</td>
+                </tr>
+            </table>
+        </fieldset>
+    </section>
+   
+
+   
+   
+
+</body>
+</html>
