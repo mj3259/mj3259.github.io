@@ -323,4 +323,3 @@ collections:
     output: true
     permalink: /:collection/:path/
     
-iis_slider_array: []
