@@ -1,11 +1,10 @@
 ---
 title: Honors and Awards
-layout: posts
+layout: collection
 permalink: /honorsandawards/
-#collection: portfolio
+collection: recipes
+author_profile: false
 #entries_layout: grid
 #classes: wide
 #toc: true
 ---
-
-
