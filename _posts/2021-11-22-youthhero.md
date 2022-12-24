@@ -15,7 +15,7 @@ Selected as the awardee of the 15th Youth Hero Prize in Academic Accomplishments
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gTPfROZaC80?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[브레이크뉴스](https://www.breaknews.com/850109){: .btn .btn--info}
-[이코노미톡뉴스](http://www.economytalk.kr/news/articleView.html?idxno=217440){: .btn .btn--info}
-[시민일보](https://www.siminilbo.co.kr/news/newsview.php?ncode=1160292430641566){: .btn .btn--info}
+[Media 1](https://www.breaknews.com/850109){: .btn .btn--info}
+[Media 2](http://www.economytalk.kr/news/articleView.html?idxno=217440){: .btn .btn--info}
+[Media 3](https://www.siminilbo.co.kr/news/newsview.php?ncode=1160292430641566){: .btn .btn--info}
 
