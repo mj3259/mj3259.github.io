@@ -33,5 +33,37 @@ feature_row:
     btn_label: "Learn more"      
 ---
 
+<div class="carousel">
+  <div class="scroll-container">
+    <div class="stage">
+
+    </div>
+
+    <div class="backstage">
+    </div>
+  </div>
+
+
+  <div class="image-list">
+    <!-- add any images you want here using inputs -->
+    <!-- these inputs also support a link tag and an alt tag -->
+    <input type="hidden" imgurl="/assets/images/biography/pedot.jpg" subtitle="Estamos de aniversario">
+    <input type="hidden" imgurl="/assets/images/biography/pedot.jpg" subtitle="Something about airborne">
+    <input type="hidden" imgurl="/assets/images/biography/pedot.jpg" subtitle="This is the third subtitle">
+  </div>
+  <div class="toolbar-background"></div>
+  <div class="toolbar">
+    <div class="subtitle">
+
+    </div>
+    <div class="controls">
+      <span class="pause"></span>
+      <span class="play"></span>
+      <span class="prev"></span>
+      <span class="next"></span>
+    </div>
+  </div>
+</div>
+
 
 {% include feature_row %}
