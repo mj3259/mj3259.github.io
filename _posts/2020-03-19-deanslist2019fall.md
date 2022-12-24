@@ -11,7 +11,7 @@ sidebar:
     text: "Materials Scientist"
 ---
 
-새내기과정학부 재학생 중 상위 3%를 시상하는 새내기과정학부 2019 가을학기 Dean's List 선정되었습니다.
+Selected in the Dean's List of School of Freshmen, KAIST. The award is conferred to the top 3% of students amongst nearly 800 freshmen, based on academic accomplishments and leadership.
 
 
 
