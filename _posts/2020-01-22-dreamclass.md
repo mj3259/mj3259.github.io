@@ -11,6 +11,7 @@ gallery:
 ---
 Awarded "Excellence in Mentor Award" in 2020 Samsung Dreamclass Winter Camp at Hanyang University ERICA campus, an outreach program supported by Samsung Welfare Foundation. The award is conferred to mentors within the top 10% upon recommendation from colleagues, mentees, and secretariats.
 
+In this two-month program, I was in charge of mathematics mentor as well as the representative mentor in programming. I supervised two teams in the end-of-term programming competition, and the teams were awarded 1st and 2nd place respectively.
 
 {% include gallery id="gallery"  %}
 
