@@ -1,11 +1,12 @@
 ---
 title: Honors and Awards
-layout: collection
+layout: posts
+author_profile: true
 permalink: /honorsandawards/
-collection: portfolio
+#collection: portfolio
 #entries_layout: grid
-classes: wide
-toc: true
+#classes: wide
+#toc: true
 ---
 
 
