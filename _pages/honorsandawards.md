@@ -1,7 +1,8 @@
 ---
-title: Honors and Awards
+title: Portfolio
 layout: collection
 permalink: /honorsandawards/
-collection: recipes
-author_profile: false
+collection: portfolio
+entries_layout: grid
+classes: wide
 ---
