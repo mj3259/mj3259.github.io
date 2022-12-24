@@ -33,10 +33,5 @@ feature_row:
     btn_label: "Learn more"      
 ---
 
-{% slider %}
-  ![alt text 1](/assets/images/biography/mandellate.PNG)
-  ![alt text 2](/assets/images/biography/mandellate.PNG)
-  ![alt text 3](/assets/images/biography/mandellate.PNG)
-{% endslider %}
 
 {% include feature_row %}
