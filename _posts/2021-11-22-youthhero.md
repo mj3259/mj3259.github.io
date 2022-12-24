@@ -4,18 +4,12 @@ excerpt: "Nov. 2021"
 header:
   image: 
   teaser: assets/images/biography/youthhero.JPG
-sidebar:
-  - title: "MinJae Kim"
-    image: "/assets/images/avatar.jpg"
-    image_alt: "logo"
-    text: "Materials Scientist"
 gallery:
   - image_path: assets/images/biography/youthhero1.JPG
   - image_path: assets/images/biography/youthhero3.JPG
 ---
 
-한국스카우트연맹이 주관하는 제 15회 Youth Hero Prize 학술부문에 선정되었습니다.
-매년 학술, 문화예술, 체육, 사회봉사 및 진로개척, 스카우트 부문에서 각 1명씩을 선발하여 시상하며, 수상자에게는 상금 500만원이 수여됩니다.
+Selected as the awardee of the 15th Youth Hero Prize in Academic Accomplishments by the Korea Scout Association. Every year, five youths in academic, artistic, athletic, service and career development are honored to be awarded the prize and conferred 5,000,000KRW respectively.
 
 {% include gallery id="gallery"  %}
 
