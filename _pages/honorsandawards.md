@@ -1,7 +1,7 @@
 ---
 title: Honors and Awards
 layout: posts
-author_profile: true
+author_profile: false
 permalink: /honorsandawards/
 #collection: portfolio
 #entries_layout: grid
