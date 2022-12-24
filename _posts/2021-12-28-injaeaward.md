@@ -4,11 +4,6 @@ excerpt: "Dec. 2021"
 header:
   image: 
   teaser: assets/images/biography/injae.JPG
-sidebar:
-  - title: "MinJae Kim"
-    image: "/assets/images/avatar.jpg"
-    image_alt: "logo"
-    text: "Materials Scientist"
 ---
 
 
