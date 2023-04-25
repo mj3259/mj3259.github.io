@@ -10,6 +10,13 @@ excerpt: >
   *Undergraduate, Dept. of Materials Science and Engineering, KAIST, Republic of Korea.*<br />
   Interested in flexible optoelectronics, perovskite optoelectronics, and nanomaterial synthesis and applications
 feature_row:
+  - image_path: /assets/images/PELED.jpg
+    alt: "Quasi-2D Perovskite LED based on Asymmetric Spacer"
+    title: "Quasi-2D Perovskite LED based on Asymmetric Spacer"
+    excerpt: "Greatly enhanced luminance properties by the collapse of electric potential asymmetry of the spacer molecule of quasi-2D perovskites"
+    url: "/assets/pdf/2023 KSMM_KMJ(Final).pdf"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
   - image_path: /assets/images/biography/mandellate.PNG
     alt: "Chiroptical Magnetite Nanoparticle"
     title: "Chiroptical Magnetite Nanoparticle"
