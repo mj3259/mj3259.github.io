@@ -24,8 +24,8 @@ gallery:
 ---
 
 
-MinJae Kim is a National Presidential Science Scholar, KAIST Presidential Fellow, Regular Member of Young Engineers Honor Society, Young Future Energy Leader, and KAIST undergraduate student researcher interested in nanotechnology, functional polymers, and photoelectronic applications of materials.
+MinJae Kim is a National Presidential Science Scholar, KAIST Presidential Fellow, Regular Member of the Young Engineers Honor Society, Young Future Energy Leader, and KAIST undergraduate student researcher interested in nanotechnology, functional polymers, and photoelectronic applications of materials.
 
-He was a Republic of Korea delegate for the 2020 Stockholm International Youth Science Seminar (SIYSS). With this honor, SIYSS youth typically are guests at the Nobel Prize ceremonies in Stockholm, Sweden, and present their research to Nobel Laureates, university professors, and students. He, besides, has been in charge of many national delegate positions, including Asian Students’ Venture Forum, International Science and Engineering Fair(ISEF), and Innovation, Design, Engineering eXchange(IDEX).
+He was a Republic of Korea delegate for the 2020 Stockholm International Youth Science Seminar (SIYSS). With this honor, SIYSS youth typically are guests at the Nobel Prize ceremonies in Stockholm, Sweden, and present their research to Nobel Laureates, university professors, and students. He, besides, has been in charge of many national delegate positions, including the Asian Students’ Venture Forum, the International Science and Engineering Fair(ISEF), and Innovation, Design, Engineering eXchange(IDEX).
 
 {% include gallery id="gallery"  %}
