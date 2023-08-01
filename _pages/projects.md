@@ -75,8 +75,8 @@ feature_row5:
 feature_row6:
   - image_path: /assets/images/bcpsensor.png
     alt: "pCO2"
-    title: "Intrinsically Stretchable pCO~2~ Sensor Enabled by Multi-functional Block Copolymer Matrices"
-    excerpt: 'By adopting a multifunctional matrix for the fluorescent molecule HPTS, we enabled the first intrinsically flexible and stretchable pCO~2~ sensor'
+    title: "Intrinsically Stretchable pCO<sub>2</sub> Sensor Enabled by Multi-functional Block Copolymer Matrices"
+    excerpt: 'By adopting a multifunctional matrix for the fluorescent molecule HPTS, we enabled the first intrinsically flexible and stretchable pCO<sub>2</sub> sensor'
     url: "/assets/pdf/mgh.pdf"
     btn_label: "Read More"
     btn_class: "btn--primary"
