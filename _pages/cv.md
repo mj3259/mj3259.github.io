@@ -13,7 +13,6 @@ excerpt: "MinJae Kim"
 Materials Scientist\
 <a href="mailto:mj3259@kaist.ac.kr">mj3259@kaist.ac.kr</a>
 -->
-<a href="/assets/pdf/cv.pdf">Download PDF</a>
 <object data="/assets/pdf/cv.pdf" type="application/pdf" width="700px" height="980px">
     <embed src="/assets/pdf/cv.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/cv.pdf">Download PDF</a>.</p>
