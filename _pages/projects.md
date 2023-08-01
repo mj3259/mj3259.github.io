@@ -72,6 +72,15 @@ feature_row5:
   -
   -
 
+feature_row6:
+  - image_path: /assets/images/bcpsensor.png
+    alt: "pCO2"
+    title: "Intrinsically Stretchable pCO2 Sensor Enabled by Multi-functional Block Copolymer Matrices"
+    excerpt: 'By adopting a multifunctional matrix for the fluorescent molecule HPTS, we enabled the first intrinsically flexible and stretchable pCO2 sensor'
+    url: "/assets/pdf/mgh.pdf"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
 feature_row1:
   - image_path: /assets/images/PELED.jpg
     alt: "PeLED"
@@ -101,6 +110,7 @@ feature_row4:
 ---
 
 {% include feature_row id="intro" type="center" %}
+{% include feature_row id="feature_row6" type="left" %}
 {% include feature_row id="feature_row1" type="left" %}
 {% include feature_row id="feature_row2" type="left" %}
 {% include feature_row id="feature_row4" type="left" %}
