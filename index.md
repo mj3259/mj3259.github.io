@@ -10,6 +10,13 @@ excerpt: >
   *Undergraduate, Dept. of Materials Science and Engineering, KAIST, Republic of Korea.*<br />
   Interested in flexible optoelectronics, polymer sciences, and nanomaterial synthesis and applications
 feature_row:
+  - image_path: /assets/images/bcpsensor.png
+    alt: "Stretchable pCO2 sensor"
+    title: "Stretchable pCO2 sensor"
+    excerpt: "Enabled the first intrinsically flexible, stretchable, and photostable pCO2 sensor with multi-functional block copolymer"
+    url: "/assets/pdf/mgh.pdf"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
   - image_path: /assets/images/PELED.jpg
     alt: "Quasi-2D Perovskite LED based on Asymmetric Spacer"
     title: "Quasi-2D Perovskite LED Based on Asymmetric Spacer"
