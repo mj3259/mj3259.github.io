@@ -11,8 +11,8 @@ excerpt: >
   Interested in flexible optoelectronics, polymer sciences, and nanomaterial synthesis and applications
 feature_row:
   - image_path: /assets/images/bcpsensor.png
-    alt: "Stretchable pCO2 sensor"
-    title: "Stretchable pCO2 sensor"
+    alt: "Stretchable pCO~2~ sensor"
+    title: "Stretchable pCO~2~ sensor"
     excerpt: "Enabled the first intrinsically flexible, stretchable, and photostable pCO2 sensor with multi-functional block copolymer"
     url: "/assets/pdf/mgh.pdf"
     btn_class: "btn--primary"
