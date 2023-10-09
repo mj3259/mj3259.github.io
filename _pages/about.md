@@ -15,16 +15,16 @@ sidebar:
     image_alt: "logo"
     text: "Materials Scientist"
 gallery:
-  - image_path: assets/images/bio/idex2.JPG
-  - image_path: assets/images/bio/snu.jpg
+  - image_path: assets/images/bio/yfelalone.jpg
+  - image_path: assets/images/bio/charles.JPG
   - image_path: assets/images/bio/isef2.jpg
-  - image_path: assets/images/bio/youngscitalk.jpg
-  - image_path: assets/images/bio/naek.JPG
+  - image_path: assets/images/mgh7.JPG
+  - image_path: assets/images/bio/wfes.HEIC
   - image_path: assets/images/bio/dreamclass.jpg
 ---
 
 
-MinJae Kim is a National Presidential Science Scholar, KAIST Presidential Fellow, Regular Member of the Young Engineers Honor Society, Young Future Energy Leader, and KAIST undergraduate student researcher interested in nanotechnology, functional polymers, and photoelectronic applications of materials.
+MinJae Kim is a National Presidential Science Scholar, KAIST Presidential Fellow, Representative of KAIST of the Young Engineers Honor Society, Young Future Energy Leader, and KAIST undergraduate student researcher interested in nanotechnology, functional polymers, and photoelectronic applications of materials.
 
 He was a Republic of Korea delegate for the 2020 Stockholm International Youth Science Seminar (SIYSS). With this honor, SIYSS youth typically are guests at the Nobel Prize ceremonies in Stockholm, Sweden, and present their research to Nobel Laureates, university professors, and students. He, besides, has been in charge of many national delegate positions, including the Asian Students’ Venture Forum, the International Science and Engineering Fair(ISEF), and Innovation, Design, Engineering eXchange(IDEX).
 
