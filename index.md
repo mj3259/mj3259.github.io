@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/teaser.jpg
 excerpt: >
   *Undergraduate, Dept. of Materials Science and Engineering, KAIST, Republic of Korea.*<br />
-  Interested in flexible optoelectronics, polymer sciences, and nanomaterial synthesis and applications
+  Interested in flexible and stretchable (opto)electronics, polymer sciences, and nanomaterial synthesis and applications
 feature_row:
   - image_path: /assets/images/bcpsensor.png
     alt: "Stretchable pCO<sub>2</sub> sensor"
