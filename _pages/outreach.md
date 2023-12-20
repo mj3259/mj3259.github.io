@@ -10,7 +10,7 @@ header:
 excerpt: "Toward a good scientist"
 
 feature_row1:
-  - image_path: /assets/images/frontcover.jpg
+  - image_path: /assets/images/Frontcover.png
     alt: "Handbook"
     title: "Handbook of optoelectronic analysis of light-emitting materials and devices"
     excerpt: 'An introductory book for novice materials scientists in the field of optoelectronic materials and devices. Last update on Dec. 20, 2023'
