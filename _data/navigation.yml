@@ -10,7 +10,7 @@ main:
      url: /projects/
    - title: "Honors and Awards"
      url: /honorsandawards/
-  # - title: "Blog"
-  #   url: /blogs/
+   - title: "Outreach"
+     url: /outreach/
   # - title: "Sitemap"
   #   url: /sitemap/
