@@ -9,7 +9,7 @@ header:
 excerpt: >
   *Undergraduate, Dept. of Materials Science and Engineering, KAIST, Republic of Korea.*<br />
   Interested in flexible and stretchable (opto)electronics, polymer sciences, and nanomaterial synthesis and applications
-feature_row:
+feature_row0:
   - image_path: /assets/images/biography/pedot.jpg
     alt: "PEDOT:PSS"
     title: "Hot-casted PEDOT:PSS Film"
@@ -59,5 +59,7 @@ feature_row1:
   btn_class: "btn--primary"
   btn_label: "Learn more"     
 -->
-{% include feature_row1 %}
-{% include feature_row %}
+
+
+{% include feature_row id="feature_row1" type="left" %}
+{% include feature_row id="feature_row0" type="left" %}
