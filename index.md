@@ -9,6 +9,8 @@ header:
 excerpt: >
   *Undergraduate, Dept. of Materials Science and Engineering, KAIST, Republic of Korea.*<br />
   Interested in flexible and stretchable (opto)electronics, polymer sciences, and nanomaterial synthesis and applications
+
+<!--
 feature_row0:
   - image_path: /assets/images/biography/pedot.jpg
     alt: "PEDOT:PSS"
@@ -17,7 +19,7 @@ feature_row0:
     url: "https://siyss20.ungaforskare.se/MinJae.kim_report.pdf"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  
+-->
 
 feature_row1:
   - image_path: /assets/images/Passivation.png
