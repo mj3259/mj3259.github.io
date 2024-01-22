@@ -37,6 +37,16 @@ feature_row:
     btn_label: "Youtube"
     btn_class: "btn--primary"
 
+
+feature_row7:
+  - image_path: /assets/images/Passivation.png
+    alt: "Passivation"
+    title: "Effective passivation of quasi-2D perovskites enabled by π-conjugated planar molecules"
+    excerpt: 'Improved luminescence characteristics by introducing pi-conjugated planar molecules to lead halide perovskites and elucidated the enhancement mechanism'
+    url: "/assets/pdf/ICAE 2023_MinJae Kim.pdf"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
 feature_row3:
   - image_path: /assets/images/asvf.PNG
     alt: "asvf"
@@ -69,8 +79,6 @@ feature_row5:
     url: "/assets/pdf/Tetrino.pdf"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  -
-  -
 
 feature_row6:
   - image_path: /assets/images/bcpsensor.png
@@ -108,14 +116,6 @@ feature_row4:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-feature_row7:
-  - image_path: /assets/images/Passivation.png
-    alt: "Passivation"
-    title: "Effective passivation of quasi-2D perovskites enabled by π-conjugated planar molecules"
-    excerpt: 'Improved luminescence characteristics by introducing pi-conjugated planar molecules to lead halide perovskites and elucidated the enhancement mechanism'
-    url: "/assets/pdf/ICAE 2023_MinJae Kim.pdf"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 
 ---
 
