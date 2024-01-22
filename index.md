@@ -9,18 +9,6 @@ header:
 excerpt: >
   *Undergraduate, Dept. of Materials Science and Engineering, KAIST, Republic of Korea.*<br />
   Interested in flexible and stretchable (opto)electronics, polymer sciences, and nanomaterial synthesis and applications
-
-<!--
-feature_row0:
-  - image_path: /assets/images/biography/pedot.jpg
-    alt: "PEDOT:PSS"
-    title: "Hot-casted PEDOT:PSS Film"
-    excerpt: "Enhanced electrical, optical, and morphological properties of PEDOT:PSS thin film via application of hot-casting"
-    url: "https://siyss20.ungaforskare.se/MinJae.kim_report.pdf"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
--->
-
 feature_row1:
   - image_path: /assets/images/Passivation.png
     alt: "Effective passivation of quasi-2D perovskites enabled by π-conjugated planar molecules"
@@ -43,6 +31,16 @@ feature_row1:
     url: "/assets/pdf/2023 KSMM_KMJ(Final).pdf"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+<!--
+feature_row0:
+  - image_path: /assets/images/biography/pedot.jpg
+    alt: "PEDOT:PSS"
+    title: "Hot-casted PEDOT:PSS Film"
+    excerpt: "Enhanced electrical, optical, and morphological properties of PEDOT:PSS thin film via application of hot-casting"
+    url: "https://siyss20.ungaforskare.se/MinJae.kim_report.pdf"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+-->
 ---
 
 
