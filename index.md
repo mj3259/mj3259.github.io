@@ -17,8 +17,6 @@ feature_row0:
     url: "https://siyss20.ungaforskare.se/MinJae.kim_report.pdf"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - 
-  - 
   
 
 feature_row1:
@@ -65,4 +63,6 @@ feature_row1:
 
 
 {% include feature_row id="feature_row1" type="left" %}
+<!--
 {% include feature_row id="feature_row0" type="left" %}
+-->
