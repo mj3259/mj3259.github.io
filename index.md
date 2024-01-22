@@ -31,6 +31,8 @@ feature_row1:
     url: "/assets/pdf/2023 KSMM_KMJ(Final).pdf"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+---
+
 <!--
 feature_row0:
   - image_path: /assets/images/biography/pedot.jpg
@@ -41,9 +43,6 @@ feature_row0:
     btn_class: "btn--primary"
     btn_label: "Learn more"
 -->
----
-
-
 <!--
 - image_path: /assets/images/biography/mandellate.PNG
   alt: "Chiroptical Magnetite Nanoparticle"
