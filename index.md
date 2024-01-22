@@ -10,6 +10,22 @@ excerpt: >
   *Undergraduate, Dept. of Materials Science and Engineering, KAIST, Republic of Korea.*<br />
   Interested in flexible and stretchable (opto)electronics, polymer sciences, and nanomaterial synthesis and applications
 feature_row:
+  - image_path: /assets/images/biography/pedot.jpg
+    alt: "PEDOT:PSS"
+    title: "Hot-casted PEDOT:PSS Film"
+    excerpt: "Enhanced electrical, optical, and morphological properties of PEDOT:PSS thin film via application of hot-casting"
+    url: "https://siyss20.ungaforskare.se/MinJae.kim_report.pdf"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+
+feature_row1:
+  - image_path: /assets/images/bcpsensor.png
+    alt: "Effective passivation of quasi-2D perovskites enabled by π-conjugated planar molecules"
+    title: "Effective passivation of quasi-2D perovskites enabled by π-conjugated planar molecules"
+    excerpt: "Elucidated the halide vacancy passivation mechanism of pi-conjugated planar molecules (Oral presentation at the 2023 International Conference on Advanced Electromaterials)"
+    url: "/assets/pdf/ICAE 2023_MinJae Kim.pdf"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
   - image_path: /assets/images/bcpsensor.png
     alt: "Stretchable pCO<sub>2</sub> sensor"
     title: "Stretchable pCO<sub>2</sub> sensor"
@@ -22,13 +38,6 @@ feature_row:
     title: "Quasi-2D Perovskite LED Based on Asymmetric Spacer"
     excerpt: "Greatly enhanced luminance properties by the collapse of electric potential asymmetry of the spacer molecule of quasi-2D perovskites(Awarded the Best Poster Award at 2023 Fall Meeting of the Korea Institute of Metals and Materials)"
     url: "/assets/pdf/2023 KSMM_KMJ(Final).pdf"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/biography/pedot.jpg
-    alt: "PEDOT:PSS"
-    title: "Hot-casted PEDOT:PSS Film"
-    excerpt: "Enhanced electrical, optical, and morphological properties of PEDOT:PSS thin film via application of hot-casting"
-    url: "https://siyss20.ungaforskare.se/MinJae.kim_report.pdf"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 ---
@@ -50,5 +59,5 @@ feature_row:
   btn_class: "btn--primary"
   btn_label: "Learn more"     
 -->
-
+{% include feature_row1 %}
 {% include feature_row %}
