@@ -107,9 +107,20 @@ feature_row4:
     url: "/assets/pdf/magnetite.pdf"
     btn_label: "Read More"
     btn_class: "btn--primary"
+
+feature_row7:
+  - image_path: /assets/images/Passivation.png
+    alt: "Passivation"
+    title: "Effective passivation of quasi-2D perovskites enabled by π-conjugated planar molecules"
+    excerpt: 'Improved luminescence characteristics by introducing pi-conjugated planar molecules to lead halide perovskites and elucidated the enhancement mechanism'
+    url: "/assets/pdf/ICAE 2023_MinJae Kim.pdf"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
 ---
 
 {% include feature_row id="intro" type="center" %}
+{% include feature_row id="feature_row7" type="left" %}
 {% include feature_row id="feature_row6" type="left" %}
 {% include feature_row id="feature_row1" type="left" %}
 {% include feature_row id="feature_row2" type="left" %}
