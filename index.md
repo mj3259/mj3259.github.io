@@ -19,7 +19,7 @@ feature_row:
     btn_label: "Learn more"
 
 feature_row1:
-  - image_path: /assets/images/bcpsensor.png
+  - image_path: /assets/images/Passivation.png
     alt: "Effective passivation of quasi-2D perovskites enabled by π-conjugated planar molecules"
     title: "Effective passivation of quasi-2D perovskites enabled by π-conjugated planar molecules"
     excerpt: "Elucidated the halide vacancy passivation mechanism of pi-conjugated planar molecules (Oral presentation at the 2023 International Conference on Advanced Electromaterials)"
