@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/teaser.jpg
 excerpt: >
   *Undergraduate, Dept. of Materials Science and Engineering, KAIST, Republic of Korea.*<br />
-  Interested in flexible and stretchable (opto)electronics, polymer sciences, and nanomaterial synthesis and applications
+  Interested in flexible and stretchable optoelectronics, Organic light-emitting diodes and their applications for healthcare, and Perovskite optoelectonics
 feature_row:
   - image_path: /assets/images/Passivation.png
     alt: "Effective passivation of quasi-2D perovskites enabled by π-conjugated planar molecules"
