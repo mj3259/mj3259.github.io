@@ -11,12 +11,12 @@ excerpt: >
   Interested in Optical designs and materials for Organic and Perovskite light-emitting diodes, flexible and stretchable optoelectronics, and their applications for healthcare
 feature_row:
   - image_path: /assets/images/Passivation.png
-    alt: "Effective passivation of quasi-2D perovskites enabled by π-conjugated planar molecules"
-    title: "Effective passivation of quasi-2D perovskites enabled by π-conjugated planar molecules"
-    excerpt: "Elucidated the halide vacancy passivation mechanism of pi-conjugated planar molecules (Oral presentation at the 2023 International Conference on Advanced Electromaterials)"
-    url: "/assets/pdf/ICAE 2023_MinJae Kim.pdf"
+    alt: "opc"
+    title: "Near-planar light outcoupling structure for ultra-efficient organic light-emitting diodes"
+    excerpt: 'Enabled ultra-efficient organic light-emitting diodes based on eclectic optical optimization. Presented at 2024 Optics and Photonics Congress (Jul. 2024). Awarded the Best Paper Award.'
+    url: "/assets/pdf/OPC 2024_MinJae Kim.pdf"
+    btn_label: "Read More"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
   - image_path: /assets/images/bcpsensor.png
     alt: "Stretchable pCO<sub>2</sub> sensor"
     title: "Stretchable pCO<sub>2</sub> sensor"
@@ -27,7 +27,7 @@ feature_row:
   - image_path: /assets/images/PELED.jpg
     alt: "Quasi-2D Perovskite LED based on Asymmetric Spacer"
     title: "Quasi-2D Perovskite LED Based on Asymmetric Spacer"
-    excerpt: "Greatly enhanced luminance properties by the collapse of electric potential asymmetry of the spacer molecule of quasi-2D perovskites(Awarded the Best Poster Award at 2023 Fall Meeting of the Korea Institute of Metals and Materials)"
+    excerpt: "Greatly enhanced luminance properties by the collapse of electric potential asymmetry of the spacer molecule of quasi-2D perovskites. Presented at 2023 Fall Meeting of the Korea Institute of Metals and Materials (Nov. 2023). Awarded the Best Poster Presentation Award."
     url: "/assets/pdf/2023 KSMM_KMJ(Final).pdf"
     btn_class: "btn--primary"
     btn_label: "Learn more"
