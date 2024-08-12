@@ -109,7 +109,7 @@ feature_row4:
     btn_class: "btn--primary"
 
 feature_row7:
-  - image_path: /assets/images/Passivation.png
+  - image_path: /assets/images/oled.jpg
     alt: "opc"
     title: "Near-planar light outcoupling structure for ultra-efficient organic light-emitting diodes"
     excerpt: 'Enabled ultra-efficient organic light-emitting diodes based on eclectic optical optimization. Presented at 2024 Optics and Photonics Congress (Jul. 2024). Awarded the Best Paper Award.'
