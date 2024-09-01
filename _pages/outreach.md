@@ -9,7 +9,7 @@ header:
   overlay_image: https://blogs.sw.siemens.com/wp-content/uploads/sites/14/2019/12/materials-1110x710.jpg
 excerpt: "Toward a good scientist"
 
-feature_row1:
+feature_row:
   - image_path: /assets/images/Frontcover.png
     alt: "Handbook"
     title: "Handbook of optoelectronic analysis of light-emitting materials and devices"
@@ -29,7 +29,9 @@ gallery2:
   - image_path: /assets/images/jec3.jpg
 ---
 
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="feature_row" type="center" %}
+
+
 {% include gallery id="gallery1"  %}
 {% include gallery id="gallery2"  %}
 
