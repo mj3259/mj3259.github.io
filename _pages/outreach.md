@@ -18,19 +18,18 @@ feature_row1:
     btn_label: "Download"
     btn_class: "btn--primary"
 
-feature_row2:
+gallery1:
   - image_path: /assets/images/dreamclass1.jpg
   - image_path: /assets/images/dreamclass2.jpg
   - image_path: /assets/images/dreamclass3.jpg
 
-feature_row3:
+gallery2:
   - image_path: /assets/images/jec1.jpg
   - image_path: /assets/images/jec2.jpg
   - image_path: /assets/images/jec3.jpg
 ---
 
 {% include feature_row id="intro" type="center" %}
-{% include feature_row id="feature_row1" type="left" %}
-{% include feature_row id="feature_row2" type="left" %}
-{% include feature_row id="feature_row3" type="left" %}
+{% include gallery id="gallery1"  %}
+{% include gallery id="gallery2"  %}
 
