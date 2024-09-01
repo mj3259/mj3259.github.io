@@ -31,7 +31,9 @@ gallery2:
 
 {% include feature_row id="feature_row" type="center" %}
 
-
+## Mentoring at Samsung Dreamclass
 {% include gallery id="gallery1"  %}
+
+## Mentoring at Junior Engineering Class
 {% include gallery id="gallery2"  %}
 
