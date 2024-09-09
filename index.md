@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/teaser.jpg
 excerpt: >
   *Undergraduate, Dept. of Materials Science and Engineering, KAIST, Republic of Korea.*<br />
-  Interested in Optical designs and materials for Organic and Perovskite light-emitting diodes, flexible and stretchable optoelectronics, and their applications for healthcare
+  Interested in bioelectronics, flexible and stretchable optoelectronics, and their biomedical applications
 feature_row:
   - image_path: /assets/images/oled.jpg
     alt: "opc"
