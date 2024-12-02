@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/teaser.jpg
 excerpt: >
   *Undergraduate, Dept. of Materials Science and Engineering, KAIST, Republic of Korea.*<br />
-  Interested in bioelectronics, flexible and stretchable optoelectronics, and their biomedical applications
+  Interested in bioelectronic interfaces, flexible and stretchable (opto)electronics, and their biomedical applications
 feature_row:
   - image_path: /assets/images/oled.jpg
     alt: "opc"
