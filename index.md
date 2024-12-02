@@ -57,6 +57,10 @@ feature_row0:
   btn_label: "Learn more"     
 -->
 
+#### Recent News
+'''
+(Dec. 02, 2024) Co-first authored paper "An ultralow-power, stable carbon dioxide sensor for real-time breath monitoring" got accepted!
+'''
 
 {% include feature_row %}
 <!--
