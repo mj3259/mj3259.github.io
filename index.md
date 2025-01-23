@@ -10,17 +10,17 @@ excerpt: >
   *Undergraduate, Dept. of Materials Science and Engineering, KAIST, Republic of Korea.*<br />
   Interested in bioelectronic interfaces, flexible and stretchable (opto)electronics, and their biomedical applications
 feature_row:
+  - image_path: /assets/images/CO2 sensor.jpg
+    alt: "Optochemical pCO<sub>2</sub> sensor"
+    title: "Optochemical pCO<sub>2</sub> sensor"
+    excerpt: "Enabled ultralow-power, highly stable, flexible, and compact pCO<sub>2</sub> sensor"
+    url: "https://doi.org/10.1016/j.device.2024.100681"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
   - image_path: /assets/images/oled.jpg
     alt: "opc"
     title: "Near-planar light outcoupling structure for ultra-efficient organic light-emitting diodes"
     excerpt: 'Enabled ultra-efficient organic light-emitting diodes based on eclectic optical optimization. Presented at 2024 Optics and Photonics Congress (Jul. 2024). Awarded the Best Paper Award.'
-  - image_path: /assets/images/bcpsensor.png
-    alt: "Stretchable pCO<sub>2</sub> sensor"
-    title: "Stretchable pCO<sub>2</sub> sensor"
-    excerpt: "Enabled the first intrinsically flexible, stretchable, and photostable pCO<sub>2</sub> sensor with multi-functional block copolymer"
-    url: "/assets/pdf/mgh.pdf"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
   - image_path: /assets/images/PELED.jpg
     alt: "Quasi-2D Perovskite LED based on Asymmetric Spacer"
     title: "Quasi-2D Perovskite LED Based on Asymmetric Spacer"
