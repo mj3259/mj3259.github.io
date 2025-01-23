@@ -119,7 +119,10 @@ feature_row8:
   - image_path: /assets/images/CO2 sensor.jpg
     alt: "opc"
     title: "An ultralow-power, stable carbon dioxide sensor for real-time breath monitoring"
-    excerpt: 'Enabled compact, flexible, and ultra-stable optochemical CO<sub>2</sub> sensors. Currently under revision'
+    excerpt: 'Enabled compact, flexible, and ultra-stable optochemical CO<sub>2</sub> sensors.'
+    url: "https://doi.org/10.1016/j.device.2024.100681"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 
 
 ---
