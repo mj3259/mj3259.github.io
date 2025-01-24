@@ -59,7 +59,7 @@ feature_row0:
 
 ### Recent News
 
-> (Dec. 24, 2024) "An ultralow-power, stable carbon dioxide sensor for real-time breath monitoring" was accepted by *Device* by Cell Press!
+> (Jan. 21, 2025) "An ultralow-power, stable carbon dioxide sensor for real-time breath monitoring" is now available at *Device* by Cell Press! See [https://doi.org/10.1016/j.device.2024.100681](https://doi.org/10.1016/j.device.2024.100681)
 
 
 
