@@ -59,7 +59,7 @@ feature_row0:
 
 ### Recent News
 
-> (Feb. 14, 2025) 🎓 Graduated KAIST as the Valedictorian of the Class of 2025! ([Speech Video](https://mj3259.github.io/Commencement/))  
+> (Feb. 14, 2025) 🎓 Graduated KAIST as the representative graduate of the Class of 2025! ([Speech Video](https://mj3259.github.io/Commencement/))  
 > (Jan. 21, 2025) 📝 "An ultralow-power, stable carbon dioxide sensor for real-time breath monitoring" is now available at *Device* by Cell Press! (For more information, see [https://doi.org/10.1016/j.device.2024.100681](https://doi.org/10.1016/j.device.2024.100681).)
 
 
