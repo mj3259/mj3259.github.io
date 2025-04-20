@@ -7,7 +7,8 @@ header:
   overlay_filter: "0.6"
   overlay_image: /assets/images/teaser.jpg
 excerpt: >
-  *Undergraduate, Dept. of Materials Science and Engineering, KAIST, Republic of Korea.*<br />
+  *Research Associate, Dept. of Materials Science and Engineering, KAIST, Republic of Korea.*<br />
+  *Incoming PhD student, Dept. of Materials Science and Engineering, Stanford University, CA.*<br />
   Interested in bioelectronic interfaces, flexible and stretchable (opto)electronics, and their biomedical applications
 feature_row:
   - image_path: /assets/images/CO2 sensor.jpg
