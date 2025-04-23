@@ -1,6 +1,6 @@
 ---
 title: "Grand Prix at the Undergraduate Research Program (URP) workshop"
-excerpt: "Feb. 2025"
+excerpt: "Apr. 2025"
 header:
   image: 
   teaser:
