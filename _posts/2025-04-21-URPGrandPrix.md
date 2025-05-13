@@ -19,6 +19,8 @@ Moreover, I presented my work at the 2025 KAIST Research Day as the representati
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KZSNnGvKJJ8?si=anvqxA0xo7Tql64S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p-6cQ5can9o?si=37sZQvd_q0aKOQmH&amp;controls=0&amp;start=5084" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 
 
