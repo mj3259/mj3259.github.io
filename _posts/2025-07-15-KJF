@@ -1,0 +1,15 @@
+---
+title: "Kwanjeong Doctoral Study Abroad Fellowship (관정해외유학장학금)"
+excerpt: "July 2025"
+header:
+  image: 
+  teaser: assets/images/KJF.jpg
+gallery:
+  - image_path: assets/images/KJF.jpg
+---
+
+Honorably selected as a recipient of the Kwanjeong Doctoral Study Abroad Fellowship and Ilju Doctoral Study Abroad Fellowship, the two most prestigious scholarships for study abroad students in Korea.
+These are merit-based and highly competitive scholarships with an acceptance ratio under 2\% in general.
+I chose the Kwanjeong Fellowship for my doctoral studies at Stanford.
+
+{% include gallery id="gallery"  %}
