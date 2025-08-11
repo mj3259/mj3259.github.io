@@ -22,13 +22,13 @@ feature_row:
     alt: "opc"
     title: "Near-planar light outcoupling structure for ultra-efficient organic light-emitting diodes"
     excerpt: 'Enabled ultra-efficient organic light-emitting diodes based on eclectic optical optimization. Presented at 2024 Optics and Photonics Congress (Jul. 2024). Won the Best Paper Award.'
+    url: "https://doi.org/10.21203/rs.3.rs-7060209/v1"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
   - image_path: /assets/images/PELED.jpg
     alt: "Quasi-2D Perovskite LED based on Asymmetric Spacer"
     title: "Quasi-2D Perovskite LED Based on Asymmetric Spacer"
     excerpt: "Greatly enhanced luminance properties by the collapse of electric potential asymmetry of the spacer molecule of quasi-2D perovskites. Presented at 2023 Fall Meeting of the Korea Institute of Metals and Materials (Nov. 2023). Won the Best Poster Presentation Award."
-    url: "/assets/pdf/2023 KSMM_KMJ(Final).pdf"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
 ---
 
 <!--
