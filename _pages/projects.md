@@ -77,42 +77,21 @@ feature_row6:
     alt: "pCO2"
     title: "Intrinsically Stretchable pCO<sub>2</sub> Sensor Enabled by Multi-functional Block Copolymer Matrices"
     excerpt: 'By adopting a multifunctional matrix for the fluorescent molecule HPTS, we enabled the first intrinsically flexible and stretchable pCO<sub>2</sub> sensor'
-    url: "/assets/pdf/mgh.pdf"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 
 feature_row1:
   - image_path: /assets/images/PELED.jpg
     alt: "PeLED"
     title: "Highly Luminescent and Stable Quasi-2D Perovskites based on Multi-functional Asymmetric Spacer"
     excerpt: 'The collapse of inversion asymmetry in electric potential on the surface of quasi-2D perovskite slabs stabilizes optically active exciton states, thereby improving the luminance properties of quasi-2D perovskites  Presented at 2023 Korean Institute of Metals and Materials Fall Meeting (Apr. 2023). Won the Best Poster Presentation Award.'
-    url: "/assets/pdf/2023 KSMM_KMJ(Final).pdf"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-
-feature_row2:
-  - image_path: /assets/images/pedotpss.jpg
-    alt: "pedotpss"
-    title: "Enhanced Optoelectric Properties by Smoothening Morphology of PEDOT:PSS Thin Film by Hot-casting"
-    excerpt: 'Optical transparency, electrical conductivity was greatly enhanced by applying hot-casting to fabrication of PEDOT:PSS thin film. The enhancements were attributed to interconnected-core network formation, which was observed via AFM imaging.'
-    url: "https://siyss20.ungaforskare.se/MinJae.kim_report.pdf"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-
-feature_row4:
-  - image_path: /assets/images/biography/mandellate.PNG
-    alt: "mandelic"
-    title: "Synthesis of Chiroptical Magnetite Nanoparticle Synthesis"
-    excerpt: 'Synthesized magnetite nanoparticle with chirality transferred by mandelic acid.'
-    url: "/assets/pdf/magnetite.pdf"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 
 feature_row7:
   - image_path: /assets/images/oled.jpg
     alt: "opc"
     title: "Near-planar light outcoupling structure for ultra-efficient organic light-emitting diodes"
     excerpt: 'Enabled ultra-efficient organic light-emitting diodes based on eclectic optical optimization. Presented at 2024 Optics and Photonics Congress (Jul. 2024). Won the Best Paper Award.'
+    url: "https://doi.org/10.21203/rs.3.rs-7060209/v1"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 
 
 feature_row8:
