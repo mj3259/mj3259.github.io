@@ -8,7 +8,6 @@ header:
   overlay_image: /assets/images/teaser.jpg
 excerpt: >
   *PhD student, Dept. of Materials Science and Engineering, Stanford University, CA.*<br />
-  *Research Fellow, School of Electrical Engineering, KAIST, South Korea.*<br />
   <!--Interested in bioelectronic interfaces, flexible and stretchable (opto)electronics, and their biomedical applications-->
 feature_row:
   - image_path: /assets/images/CO2 sensor.jpg
@@ -59,6 +58,7 @@ feature_row0:
 -->
 
 ### Recent News
+> (Oct. 21, 2025) ✈️ Invited to the Global Young Scientists Summit as a representative young scientist of Korea!  
 > (Jul. 16, 2025) ✈️ Selected as a recipient of the Kwanjeong Doctoral Study Abroad Fellowship!  
 > (Apr. 23, 2025) 📽️ My research on optochemical carbon dioxide sensor got highlighted on KAIST YouTube! ([Video](https://youtu.be/KZSNnGvKJJ8?si=OGbS7bBJG9norrc0))  
 > (Feb. 14, 2025) 🎓 Graduated KAIST as the representative graduate of the Class of 2025! ([Speech Video](https://mj3259.github.io/Commencement/))  
