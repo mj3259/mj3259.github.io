@@ -58,11 +58,11 @@ feature_row0:
 -->
 
 ### Recent News
+> (Nov. 24, 2025) 📝 "Near-planar light outcoupling structures with finite lateral dimensions for ultra-efficient and optical crosstalk-free OLED displays" is now available at *Nature Communications*! (For more information, see [https://doi.org/10.1038/s41467-025-66538-6](https://doi.org/10.1038/s41467-025-66538-6).)  
 > (Oct. 21, 2025) ✈️ Invited to the Global Young Scientists Summit as a representative young scientist of Korea!  
 > (Jul. 16, 2025) ✈️ Selected as a recipient of the Kwanjeong Doctoral Study Abroad Fellowship!  
 > (Apr. 23, 2025) 📽️ My research on optochemical carbon dioxide sensor got highlighted on KAIST YouTube! ([Video](https://youtu.be/KZSNnGvKJJ8?si=OGbS7bBJG9norrc0))  
 > (Feb. 14, 2025) 🎓 Graduated KAIST as the representative graduate of the Class of 2025! ([Speech Video](https://mj3259.github.io/Commencement/))  
-> (Jan. 21, 2025) 📝 "An ultralow-power, stable carbon dioxide sensor for real-time breath monitoring" is now available at *Device* by Cell Press! (For more information, see [https://doi.org/10.1016/j.device.2024.100681](https://doi.org/10.1016/j.device.2024.100681).)
 
 
 
