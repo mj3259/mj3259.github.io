@@ -89,7 +89,7 @@ feature_row7:
     alt: "opc"
     title: "Near-planar light outcoupling structure for ultra-efficient organic light-emitting diodes"
     excerpt: 'Enabled ultra-efficient organic light-emitting diodes based on eclectic optical optimization. Presented at 2024 Optics and Photonics Congress (Jul. 2024). Won the Best Paper Award.'
-    url: "https://doi.org/10.21203/rs.3.rs-7060209/v1"
+    url: "https://doi.org/10.1038/s41467-025-66538-6"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
@@ -107,8 +107,8 @@ feature_row8:
 ---
 
 {% include feature_row id="intro" type="center" %}
-{% include feature_row id="feature_row8" type="left" %}
 {% include feature_row id="feature_row7" type="left" %}
+{% include feature_row id="feature_row8" type="left" %}
 {% include feature_row id="feature_row6" type="left" %}
 {% include feature_row id="feature_row1" type="left" %}
 
