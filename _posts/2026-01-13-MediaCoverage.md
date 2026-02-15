@@ -5,9 +5,9 @@ header:
   image: 
   teaser: assets/images/NP4.jpg
 gallery:
-  - image_path: assets/images/NP1.jpg
-  - image_path: assets/images/NP2.jpg
-  - image_path: assets/images/NP3.jpg
+  - image_path: assets/images/NP1.png
+  - image_path: assets/images/NP2.png
+  - image_path: assets/images/NP3.png
 ---
 
 My recent publication (see [https://doi.org/10.1038/s41467-025-66538-6](https://doi.org/10.1038/s41467-025-66538-6).) was recognized by media!
