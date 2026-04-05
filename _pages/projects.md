@@ -45,10 +45,10 @@ feature_row1:
 
 
 ## Presentations
-1. **<u>M.J. Kim</u>**, H. Cho*, "Effective passivation of quasi-2D perovskites enabled by π-conjugated planar molecules", 7<sup>th</sup> International Conference on Advanced Electromaterials (ICAE), 2023 (Oral), Jeju, South Korea
-1. **<u>M.J. Kim</u>**, E. Rousakis, V. Lozano, C. Evans*, "Intrinsically stretchable pCO<sub>2</sub> sensor enabled by multi-functional block copolymer matrices", Harvard-MIT Summer Institute at MGH, 2023 (Poster), Boston, MA, United States __(People's Choice Award)__
-1. **<u>M.J. Kim</u>**, S. Shin, H. Cho*, "Highly luminescent and stable quasi-2D perovskites based on multi-functional asymmetric spacer", KAIST URP Workshop, 2023 (Oral), Daejeon, South Korea, __(Grand Prix)__
-1. **<u>M.J. Kim</u>**, S. Shin, H. Cho*, "Highly luminescent and stable quasi-2D perovskites based on multi-functional asymmetric spacer", Spring Meeting of Korean Institute of Metals and Materials, 2023 (Poster), Jeju, South Korea __(Best Poster Presentation Award)__
+1. **<u>M.J. Kim</u>**, H. Cho*, "Effective passivation of quasi-2D perovskites enabled by π-conjugated planar molecules", _7<sup>th</sup> International Conference on Advanced Electromaterials (ICAE)_, 2023 (Oral), Jeju, South Korea
+1. **<u>M.J. Kim</u>**, E. Rousakis, V. Lozano, C. Evans*, "Intrinsically stretchable pCO<sub>2</sub> sensor enabled by multi-functional block copolymer matrices", _Harvard-MIT Summer Institute at MGH_, 2023 (Poster), Boston, MA, United States __(People's Choice Award)__
+1. **<u>M.J. Kim</u>**, S. Shin, H. Cho*, "Highly luminescent and stable quasi-2D perovskites based on multi-functional asymmetric spacer", _KAIST URP Workshop_, 2023 (Oral), Daejeon, South Korea, __(Grand Prix)__
+1. **<u>M.J. Kim</u>**, S. Shin, H. Cho*, "Highly luminescent and stable quasi-2D perovskites based on multi-functional asymmetric spacer", _Spring Meeting of Korean Institute of Metals and Materials_, 2023 (Poster), Jeju, South Korea __(Best Poster Presentation Award)__
 {: reversed="reversed"}
 
 <!-- {% include feature_row id="feature_row2" type="left" %}
