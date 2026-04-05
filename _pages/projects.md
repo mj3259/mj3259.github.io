@@ -45,6 +45,8 @@ feature_row1:
 
 
 ## Presentations
+1. **<u>M.J. Kim</u>**, J. Kim, S. Yoo*, "Near-planar light outcoupling structure for ultra-efficient organic light-emitting diodes", _William Nix Lecture Poster Session_, 2026 (Oral), Stanford, CA, United States
+1. **<u>M.J. Kim</u>**, J. Kim, S. Yoo*, "Near-planar light outcoupling structure for ultra-efficient organic light-emitting diodes", _UC Berkeley-Stanford Academic Conference_, 2025 (Oral), Mountain View, CA, United States __(Best Presentation Award)__
 1. **<u>M.J. Kim</u>**, J. Kim, S. Yoo*, "Ultralow-power and highly stable carbon dioxide sensor for real-time breath monitoring", _KAIST Research Day_, 2025 (Oral), Daejeon, South Korea __[(Video)](https://youtu.be/p-6cQ5can9o?si=_PpzmgQl2E7s5PqI&t=5084)__
 1. **<u>M.J. Kim</u>**, J. Kim, S. Yoo*, "Ultralow-power and highly stable carbon dioxide sensor for real-time breath monitoring", _KAIST URP Workshop_, 2024 (Oral), Daejeon, South Korea __(Grand Prix)__
 1. **<u>M.J. Kim</u>**, J. Kim, S. Yoo*, "Near-planar light outcoupling structure for ultra-efficient organic light-emitting diodes", _Optics and Photonics Congress_, 2024 (Oral), Jeju, South Korea __(Best Paper Award)__
