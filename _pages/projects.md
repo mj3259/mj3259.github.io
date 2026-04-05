@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Publications"
 layout: splash
 permalink: /projects/
 date: 
@@ -10,7 +10,7 @@ header:
   #actions:
   #  - label: "Visit"
   #    url: "/_pages/Mohr Circle Calculator_HTML.html"
-excerpt: "Toward a good scientist"
+excerpt: "Towards a good materials scientist"
 
 
 feature_row2:
