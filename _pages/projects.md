@@ -57,7 +57,8 @@ feature_row1:
 {: reversed="reversed"}
 
 ## Patents
-1. H.Cho*, **<u>M.J. Kim</u>**, S. Shin, "Perovskite material including muti-functional asymmetric organic spacer and light-emitting device including the same", KR-10-2023-0118990
+1. H. Cho*, **<u>M.J. Kim</u>**, "Semiconductor material with passivation molecule giving π-conjugation electron density and method for manufacturing the same", KR-10-2023-0167999
+1. H. Cho*, **<u>M.J. Kim</u>**, S. Shin, "Perovskite material including muti-functional asymmetric organic spacer and light-emitting device including the same", KR-10-2023-0118990
 {: reversed="reversed"}
 
 
