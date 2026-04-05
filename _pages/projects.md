@@ -39,8 +39,8 @@ feature_row1:
 
 
 ## Journal publications
-1. __M.J. Kim__, J. Kim, S. Yoo*, Nature Communications 16 (2025): 11606, DOI: [10.1038/s41467-025-66538-6](https://doi.org/10.1038/s41467-025-66538-6).
-1. __M.J. Kim__, D. Choi, C.-h. Kang, S. Yoo*, "Ultralow-power carbon dioxide sensor for real-time breath monitoring." Device 3.5 (2025): 100681, DOI: [10.1016/j.device.2024.100681](https://doi.org/10.1016/j.device.2024.100681).
+1. __M.J. Kim__, J. Kim, S. Yoo*, _Nature Communications_ 16 (2025): 11606, DOI: [10.1038/s41467-025-66538-6](https://doi.org/10.1038/s41467-025-66538-6).
+1. __M.J. Kim__, D. Choi, C.-h. Kang, S. Yoo*, "Ultralow-power carbon dioxide sensor for real-time breath monitoring." _Device_ 3.5 (2025): 100681, DOI: [10.1016/j.device.2024.100681](https://doi.org/10.1016/j.device.2024.100681).
 {: reversed="reversed"}
 
 <!-- {% include feature_row id="feature_row2" type="left" %}
