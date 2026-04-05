@@ -39,15 +39,15 @@ feature_row1:
 
 
 ## Journal publications
-1. __<u>M.J. Kim<\u>__, J. Kim, S. Yoo*, "Near-planar light outcoupling structures with finite lateral dimensions for ultra-efficient and optical crosstalk-free OLED displays" _Nature Communications_ 16 (2025): 11606, DOI: [10.1038/s41467-025-66538-6](https://doi.org/10.1038/s41467-025-66538-6).
-1. __<u>M.J. Kim<\u>__, D. Choi, C.-h. Kang, S. Yoo*, "Ultralow-power carbon dioxide sensor for real-time breath monitoring." _Device_ 3.5 (2025): 100681, DOI: [10.1016/j.device.2024.100681](https://doi.org/10.1016/j.device.2024.100681).
+1. **<u>M.J. Kim</u>**, J. Kim, S. Yoo*, "Near-planar light outcoupling structures with finite lateral dimensions for ultra-efficient and optical crosstalk-free OLED displays" _Nature Communications_ 16 (2025): 11606, DOI: [10.1038/s41467-025-66538-6](https://doi.org/10.1038/s41467-025-66538-6).
+1. **<u>M.J. Kim</u>**, D. Choi, C.-h. Kang, S. Yoo*, "Ultralow-power carbon dioxide sensor for real-time breath monitoring." _Device_ 3.5 (2025): 100681, DOI: [10.1016/j.device.2024.100681](https://doi.org/10.1016/j.device.2024.100681).
 {: reversed="reversed"}
 
 
 ## Presentations
-1. "Effective passivation of quasi-2D perovskites enabled by π-conjugated planar molecules", 7<sup>th</sup> International Conference on Advanced Electromaterials (ICAE), 2023 (Oral), Jeju, South Korea
-1. __<u>M.J. Kim<\u>__, E. Rousakis, V. Lozano, C. Evans*, "Intrinsically stretchable pCO<sub>2</sub> sensor enabled by multi-functional block copolymer matrices", Harvard-MIT Summer Institute at MGH, 2023 (Poster), Boston, MA, United States __(People's Choice Award)__
-1. __<u>M.J. Kim<\u>__, S. Shin, H. Cho*, "Highly luminescent and stable quasi-2D perovskites based on multi-functional asymmetric spacer", KAIST URP Workshop, 2023 (Oral), Daejeon, South Korea, __(Grand Prix)__
+1. **<u>M.J. Kim</u>**, H. Cho*, "Effective passivation of quasi-2D perovskites enabled by π-conjugated planar molecules", 7<sup>th</sup> International Conference on Advanced Electromaterials (ICAE), 2023 (Oral), Jeju, South Korea
+1. **<u>M.J. Kim</u>**, E. Rousakis, V. Lozano, C. Evans*, "Intrinsically stretchable pCO<sub>2</sub> sensor enabled by multi-functional block copolymer matrices", Harvard-MIT Summer Institute at MGH, 2023 (Poster), Boston, MA, United States __(People's Choice Award)__
+1. **<u>M.J. Kim</u>**, S. Shin, H. Cho*, "Highly luminescent and stable quasi-2D perovskites based on multi-functional asymmetric spacer", KAIST URP Workshop, 2023 (Oral), Daejeon, South Korea, __(Grand Prix)__
 1. **<u>M.J. Kim</u>**, S. Shin, H. Cho*, "Highly luminescent and stable quasi-2D perovskites based on multi-functional asymmetric spacer", Spring Meeting of Korean Institute of Metals and Materials, 2023 (Poster), Jeju, South Korea __(Best Poster Presentation Award)__
 {: reversed="reversed"}
 
