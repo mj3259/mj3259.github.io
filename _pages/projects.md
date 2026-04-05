@@ -43,17 +43,16 @@ feature_row1:
 1. __M.J. Kim__, D. Choi, C.-h. Kang, S. Yoo*, "Ultralow-power carbon dioxide sensor for real-time breath monitoring." _Device_ 3.5 (2025): 100681, DOI: [10.1016/j.device.2024.100681](https://doi.org/10.1016/j.device.2024.100681).
 {: reversed="reversed"}
 
+
+## Presentations
+1. __M.J. Kim__, S. Shin, H. Cho*, "Highly luminescent and stable quasi-2D perovskites based on multi-functional asymmetric spacer", KAIST URP Workshop, 2023 (Oral), Daejeon, South Korea, __(Grand Prix)__
+1. __M.J. Kim__, S. Shin, H. Cho*, "Highly luminescent and stable quasi-2D perovskites based on multi-functional asymmetric spacer", Spring Meeting of Korean Institute of Metals and Materials, 2023 (Poster), Jeju, South Korea, __(Best Poster Presentation Award)__
+{: reversed="reversed"}
+
 <!-- {% include feature_row id="feature_row2" type="left" %}
 {% include feature_row id="feature_row1" type="left" %} -->
 
 
 
 
-
-<!--{% include feature_row %}
-{% include feature_row id="feature_row2" type="left" %}
-{% include feature_row id="feature_row4" type="left" %}
-{% include feature_row id="feature_row3" %}
-{% include feature_row id="feature_row5" %}
--->
 
