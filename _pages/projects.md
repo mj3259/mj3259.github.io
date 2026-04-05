@@ -37,10 +37,6 @@ feature_row1:
 
 {% include feature_row id="intro" type="center" %}
 
-**Google Scholar**: [https://scholar.google.com/citations?user=NzwbSOgAAAAJ&hl=en](https://scholar.google.com/citations?user=NzwbSOgAAAAJ&hl=en)  
-**ORCID**: [0000-0003-3995-8016](https://orcid.org/0000-0003-3995-8016)
-
-
 ## Journal publications
 1. **<u>M.J. Kim<sup>†</sup></u>**, J. Kim<sup>†</sup>, S. Yoo*, "Near-planar light outcoupling structures with finite lateral dimensions for ultra-efficient and optical crosstalk-free OLED displays" _Nature Communications_ 16 (2025): 11606, DOI: [10.1038/s41467-025-66538-6](https://doi.org/10.1038/s41467-025-66538-6).
 1. **<u>M.J. Kim<sup>†</sup></u>**, D. Choi<sup>†</sup>, C.-h. Kang, S. Yoo*, "Ultralow-power carbon dioxide sensor for real-time breath monitoring." _Device_ 3.5 (2025): 100681, DOI: [10.1016/j.device.2024.100681](https://doi.org/10.1016/j.device.2024.100681).
