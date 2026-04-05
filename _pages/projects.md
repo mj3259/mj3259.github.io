@@ -45,8 +45,9 @@ feature_row1:
 
 
 ## Presentations
+1. __M.J. Kim__, E. Rousakis, V. Lozano, C. Evans*, "Intrinsically stretchable pCO<sub>2</sub> sensor enabled by multi-functional block copolymer matrices", Harvard-MIT Summer Institute at MGH, 2023 (Poster), Boston, MA, United States __(People's Choice Award)__
 1. __M.J. Kim__, S. Shin, H. Cho*, "Highly luminescent and stable quasi-2D perovskites based on multi-functional asymmetric spacer", KAIST URP Workshop, 2023 (Oral), Daejeon, South Korea, __(Grand Prix)__
-1. __M.J. Kim__, S. Shin, H. Cho*, "Highly luminescent and stable quasi-2D perovskites based on multi-functional asymmetric spacer", Spring Meeting of Korean Institute of Metals and Materials, 2023 (Poster), Jeju, South Korea, __(Best Poster Presentation Award)__
+1. __M.J. Kim__, S. Shin, H. Cho*, "Highly luminescent and stable quasi-2D perovskites based on multi-functional asymmetric spacer", Spring Meeting of Korean Institute of Metals and Materials, 2023 (Poster), Jeju, South Korea __(Best Poster Presentation Award)__
 {: reversed="reversed"}
 
 <!-- {% include feature_row id="feature_row2" type="left" %}
