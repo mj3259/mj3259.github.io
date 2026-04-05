@@ -39,15 +39,15 @@ feature_row1:
 
 
 ## Journal publications
-1. __M.J. Kim__, J. Kim, S. Yoo*, "Near-planar light outcoupling structures with finite lateral dimensions for ultra-efficient and optical crosstalk-free OLED displays" _Nature Communications_ 16 (2025): 11606, DOI: [10.1038/s41467-025-66538-6](https://doi.org/10.1038/s41467-025-66538-6).
-1. __M.J. Kim__, D. Choi, C.-h. Kang, S. Yoo*, "Ultralow-power carbon dioxide sensor for real-time breath monitoring." _Device_ 3.5 (2025): 100681, DOI: [10.1016/j.device.2024.100681](https://doi.org/10.1016/j.device.2024.100681).
+1. __<u>M.J. Kim<\u>__, J. Kim, S. Yoo*, "Near-planar light outcoupling structures with finite lateral dimensions for ultra-efficient and optical crosstalk-free OLED displays" _Nature Communications_ 16 (2025): 11606, DOI: [10.1038/s41467-025-66538-6](https://doi.org/10.1038/s41467-025-66538-6).
+1. __<u>M.J. Kim<\u>__, D. Choi, C.-h. Kang, S. Yoo*, "Ultralow-power carbon dioxide sensor for real-time breath monitoring." _Device_ 3.5 (2025): 100681, DOI: [10.1016/j.device.2024.100681](https://doi.org/10.1016/j.device.2024.100681).
 {: reversed="reversed"}
 
 
 ## Presentations
-1. __M.J. Kim__, E. Rousakis, V. Lozano, C. Evans*, "Intrinsically stretchable pCO<sub>2</sub> sensor enabled by multi-functional block copolymer matrices", Harvard-MIT Summer Institute at MGH, 2023 (Poster), Boston, MA, United States __(People's Choice Award)__
-1. __M.J. Kim__, S. Shin, H. Cho*, "Highly luminescent and stable quasi-2D perovskites based on multi-functional asymmetric spacer", KAIST URP Workshop, 2023 (Oral), Daejeon, South Korea, __(Grand Prix)__
-1. __M.J. Kim__, S. Shin, H. Cho*, "Highly luminescent and stable quasi-2D perovskites based on multi-functional asymmetric spacer", Spring Meeting of Korean Institute of Metals and Materials, 2023 (Poster), Jeju, South Korea __(Best Poster Presentation Award)__
+1. __<u>M.J. Kim<\u>__, E. Rousakis, V. Lozano, C. Evans*, "Intrinsically stretchable pCO<sub>2</sub> sensor enabled by multi-functional block copolymer matrices", Harvard-MIT Summer Institute at MGH, 2023 (Poster), Boston, MA, United States __(People's Choice Award)__
+1. __<u>M.J. Kim<\u>__, S. Shin, H. Cho*, "Highly luminescent and stable quasi-2D perovskites based on multi-functional asymmetric spacer", KAIST URP Workshop, 2023 (Oral), Daejeon, South Korea, __(Grand Prix)__
+1. __<u>M.J. Kim<\u>__, S. Shin, H. Cho*, "Highly luminescent and stable quasi-2D perovskites based on multi-functional asymmetric spacer", Spring Meeting of Korean Institute of Metals and Materials, 2023 (Poster), Jeju, South Korea __(Best Poster Presentation Award)__
 {: reversed="reversed"}
 
 <!-- {% include feature_row id="feature_row2" type="left" %}
