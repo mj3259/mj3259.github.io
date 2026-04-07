@@ -41,7 +41,7 @@ feature_row1:
 1. **<u>M.J. Kim<sup>†</sup></u>**, J. Kim<sup>†</sup>, S. Yoo*, "Near-planar light outcoupling structures with finite lateral dimensions for ultra-efficient and optical crosstalk-free OLED displays" _Nature Communications_ 16 (2025): 11606, DOI: [10.1038/s41467-025-66538-6](https://doi.org/10.1038/s41467-025-66538-6).
 🏆 __Highlighted in ([TechXplore](https://techxplore.com/news/2026-01-oled-screen-brightness-flat-display.html))__
 1. **<u>M.J. Kim<sup>†</sup></u>**, D. Choi<sup>†</sup>, C.-h. Kang, S. Yoo*, "Ultralow-power carbon dioxide sensor for real-time breath monitoring." _Device_ 3.5 (2025): 100681, DOI: [10.1016/j.device.2024.100681](https://doi.org/10.1016/j.device.2024.100681).  
-🏆__Representative Research Outcome in the first half of 2025 ([KAIST Engineering Newsletter](https://engineering.kaist.ac.kr/newsletter/202505/newsletter.html?))__
+🏆__[Representative Research Outcome](https://engineering.kaist.ac.kr/newsletter/202505/newsletter.html?) in the first half of 2025__
 {: reversed="reversed"}
 
 
