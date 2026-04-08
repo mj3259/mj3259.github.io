@@ -1,8 +1,8 @@
 ---
-title: Honors and Awards
+title: Blog
 layout: posts
 author_profile: false
-permalink: /honorsandawards/
+permalink: /blog/
 #collection: portfolio
 #entries_layout: grid
 #classes: wide
