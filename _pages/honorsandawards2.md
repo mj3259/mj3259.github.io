@@ -24,9 +24,9 @@ excerpt: "Towards a good materials scientist"
 1. __Representative of KAIST, Young Engineers Honor Society__, National Academy of Engineering of Korea, 2023  
 1. __National Delegate to the Asian Students' Venture Forum__, Korean Economic Daily, 2022  
 1. __Talent Award of Korea__, Ministry of Education, 2021  
+1. __KAIST Presidential Fellow__, KAIST, 2021 - 2025  
 1. __Nobel Ceremony Guest and National Delegate to the Stockholm International Youth Science Seminar__, The Swedish Federation of Young Scientists, 2020  
 1. __Cadetship of the Research Officer for National Defense__, Ministry of Science and ICT, Ministry of Defense, 2020  
-1. __KAIST Presidential Fellow__, KAIST, 2021 - 2025  
 1. __National Presidential Science Scholar__, The President of South Korea, 2019 - 2025
 {: reversed="reversed"}
 
@@ -54,6 +54,7 @@ excerpt: "Towards a good materials scientist"
 {: reversed="reversed"}
 
 ## Services
+1. __Director, Junior Engineering Class__, Young Engineers Honor Society, 2022  
 1. __Special Lecturer, KAIST Tip Talk Program__, KAIST, 2022  
 1. __President, Board of Audit and Inspection__, KAIST Undergraduate Association, 2020  
 1. __Mentor, Samsung Dreamclass__, Samsung Welfare Foundation, 2019 - 2021  
