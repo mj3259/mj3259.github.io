@@ -31,14 +31,26 @@ excerpt: "Towards a good materials scientist"
 {: reversed="reversed"}
 
 ## Awards
+1. __Grand Prix, KAIST URP Workshop__, KAIST, 2024  
+1. __CoE Leadership Award__, KAIST College of Engineering, 2024  
+1. __Best Paper Award__, Optical Society of Korea, 2023  
+1. __Global Leadership Award__, KAIST, 2023  
 1. __Donggyo Injae Award__, Surim Foundation, 2023  
-1. __KAIST Q-Day Special Award__, KAIST, 2023    
+1. __KAIST Q-Day Special Award__, KAIST, 2023  
+1. __Grand Prix, KAIST URP Workshop__, KAIST, 2023  
+1. __People's Choice Award__, Harvard-MIT Summer Institute at MGH, 2023  
+1. __CoE Leadership Award__, KAIST College of Engineering, 2023  
+1. __Best Poster Presentation Award__, Korean Institute of Metals and Materials, 2023  
+1. __Dean's List__, KAIST College of Engineering, 2023  
 1. __Excellence Award, Ulsan Paper Award__, Ulsan Research Institute, 2022  
 1. __Bronze Award, Asian Students' Venture Forum__, Korean Economic Daily, 2022  
+1. __Dean's List__, KAIST College of Engineering, 2022  
 1. __Youth Hero Prize__, Korea Scout Association, 2021  
 1. __Encouragement Award, Incheon Paper Award__, Incheon Metropolitan City, 2021  
 1. __Excellence Award, Upcycling Idea Award__, Korean Environmental Industry Association, 2021  
 1. __Excellence in Mentorship Award, Samsung Dreamclass__, Samsung Welfare Foundation, 2020
+1. __Dean's List__, KAIST College of Engineering, 2020  
+1. __Dean's List__, KAIST School of Freshmen, 2019
 {: reversed="reversed"}
 
 
