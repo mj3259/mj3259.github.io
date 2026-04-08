@@ -31,11 +31,14 @@ excerpt: "Towards a good materials scientist"
 {: reversed="reversed"}
 
 ## Awards
-1. **<u>M.J. Kim<sup>†</sup></u>**, J. Kim<sup>†</sup>, S. Yoo*, "Near-planar light outcoupling structures with finite lateral dimensions for ultra-efficient and optical crosstalk-free OLED displays" _Nature Communications_ 16 (2025): 11606, DOI: [10.1038/s41467-025-66538-6](https://doi.org/10.1038/s41467-025-66538-6).  
-✨ __Highlighted in [TechXplore](https://techxplore.com/news/2026-01-oled-screen-brightness-flat-display.html)__
-1. **<u>M.J. Kim<sup>†</sup></u>**, D. Choi<sup>†</sup>, C.-h. Kang, S. Yoo*, "Ultralow-power carbon dioxide sensor for real-time breath monitoring." _Device_ 3.5 (2025): 100681, DOI: [10.1016/j.device.2024.100681](https://doi.org/10.1016/j.device.2024.100681).  
-✨__Highlighted in [KAIST Youtube](https://youtu.be/KZSNnGvKJJ8?si=vjpHWSsmQYhCeVr6)__  
-🏆__[Representative Research Outcome of KAIST Engineering](https://engineering.kaist.ac.kr/newsletter/202505/newsletter.html?)__
+1. __Donggyo Injae Award__, Surim Foundation, 2023  
+1. __KAIST Q-Day Special Award__, KAIST, 2023    
+1. __Excellence Award, Ulsan Paper Award__, Ulsan Research Institute, 2022  
+1. __Bronze Award, Asian Students' Venture Forum__, Korean Economic Daily, 2022  
+1. __Youth Hero Prize__, Korea Scout Association, 2021  
+1. __Encouragement Award, Incheon Paper Award__, Incheon Metropolitan City, 2021  
+1. __Excellence Award, Upcycling Idea Award__, Korean Environmental Industry Association, 2021  
+1. __Excellence in Mentorship Award, Samsung Dreamclass__, Samsung Welfare Foundation, 2020
 {: reversed="reversed"}
 
 
