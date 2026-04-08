@@ -1,7 +1,7 @@
 ---
-title: "Publications"
+title: "Honors and Awards"
 layout: splash
-permalink: /projects/
+permalink: /honorsandawards/
 date: 
 header:
   overlay_color: "#000"
