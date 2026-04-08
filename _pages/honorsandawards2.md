@@ -16,7 +16,7 @@ excerpt: "Towards a good materials scientist"
 {% include feature_row id="intro" type="center" %}
 
 ## Honors
-1. National Delegate, Global Young Scientists Summit, _National Research Foundation of Korea, National Research Foundation of Singapore_, 2026
+1. __National Delegate to the Global Young Scientists Summit__, _National Research Foundation of Korea, National Research Foundation of Singapore_, 2026
 {: reversed="reversed"}
 
 ## Awards
