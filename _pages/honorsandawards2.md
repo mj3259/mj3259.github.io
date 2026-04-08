@@ -53,7 +53,11 @@ excerpt: "Towards a good materials scientist"
 1. __Dean's List__, KAIST School of Freshmen, 2019
 {: reversed="reversed"}
 
-
+## Services
+1. __Special Lecturer, KAIST Tip Talk Program__, KAIST, 2022  
+1. __President, Board of Audit and Inspection__, KAIST Undergraduate Association, 2020  
+1. __Mentor, Samsung Dreamclass__, Samsung Welfare Foundation, 2019 - 2021  
+1. __Member, Board of Audit and Inspection__, KAIST Undergraduate Association, 2019 - 2020
 
 
 
