@@ -20,7 +20,14 @@ excerpt: "Towards a good materials scientist"
 1. __Valedictorian at the KAIST Commencement 2025__, KAIST, 2025  
 1. __National Delegate to the 73<sup>rd</sup> Lindau Nobel Laureate Meeting__, The Korean Academy of Science and Technology, The Council for the Lindau Nobel Laureate Meeting, 2024  
 1. __NUS Young Fellow__, National University of Singapore, 2024  
-1. __Young Future Energy Leader__, Khalifa University, 2023
+1. __Young Future Energy Leader__, Khalifa University, 2023  
+1. __Representative of KAIST, Young Engineers Honor Society__, National Academy of Engineering of Korea, 2023  
+1. __National Delegate to the Asian Students' Venture Forum__, Korean Economic Daily, 2022  
+1. __Talent Award of Korea__, Ministry of Education, 2021  
+1. __Nobel Ceremony Guest and National Delegate to the Stockholm International Youth Science Seminar__, The Swedish Federation of Young Scientists, 2020  
+1. __Cadetship of the Research Officer for National Defense__, Ministry of Science and ICT, Ministry of Defense, 2020  
+1. __KAIST Presidential Fellow__, KAIST, 2021 - 2025  
+1. __National Presidential Science Scholar__, The President of South Korea, 2019 - 2025
 {: reversed="reversed"}
 
 ## Awards
