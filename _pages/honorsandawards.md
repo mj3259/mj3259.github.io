@@ -24,11 +24,20 @@ excerpt: "Towards a good materials scientist"
 1. __Representative of KAIST, Young Engineers Honor Society__, National Academy of Engineering of Korea, 2023  
 1. __National Delegate to the Asian Students' Venture Forum__, Korean Economic Daily, 2022  
 1. __Talent Award of Korea__, Ministry of Education, 2021  
-1. __KAIST Presidential Fellow__, KAIST, 2021 - 2025  
 1. __Nobel Ceremony Guest and National Delegate to the Stockholm International Youth Science Seminar__, The Swedish Federation of Young Scientists, 2020  
 1. __Cadetship of the Research Officer for National Defense__, Ministry of Science and ICT, Ministry of Defense, 2020  
+{: reversed="reversed"}
+
+## Scholarships
+1. __Kwanjeong Doctoral Study Abroad Fellowship__, Kwanjeong Foundation, 2025 - 2030
+1. __Woonhae Scholarship__, Woonhae Foundation, 2023 - 2024  
+1. __Young-Han Kim Global Leader Scholarship__, KAIST, 2023  
+1. __Dream Supporter Scholarship__, Global Hansang Dream Foundation, 2022 - 2026  
+1. __Departmental Honor Scholarship__, KAIST, 2021 - 2023  
+1. __KAIST Presidential Fellow__, KAIST, 2021 - 2025  
 1. __National Presidential Science Scholar__, The President of South Korea, 2019 - 2025
 {: reversed="reversed"}
+
 
 ## Awards
 1. __Grand Prix, KAIST URP Workshop__, KAIST, 2024  
