@@ -15,7 +15,7 @@ excerpt: "Towards a good materials scientist"
 
 {% include feature_row id="intro" type="center" %}
 
-## Honors
+## 🏅Honors
 1. __National Delegate to the Global Young Scientists Summit__, National Research Foundation of Korea, National Research Foundation of Singapore, 2026  
 1. __Valedictorian at the KAIST Commencement 2025__, KAIST, 2025  
 1. __National Delegate to the 73<sup>rd</sup> Lindau Nobel Laureate Meeting__, The Korean Academy of Science and Technology, The Council for the Lindau Nobel Laureate Meeting, 2024  
@@ -28,7 +28,7 @@ excerpt: "Towards a good materials scientist"
 1. __Cadetship of the Research Officer for National Defense__, Ministry of Science and ICT, Ministry of Defense, 2020  
 {: reversed="reversed"}
 
-## Scholarships
+## 🎓Scholarships
 1. __Kwanjeong Doctoral Study Abroad Fellowship__, Kwanjeong Foundation, 2025 - 2030
 1. __Woonhae Scholarship__, Woonhae Foundation, 2023 - 2024  
 1. __Young-Han Kim Global Leader Scholarship__, KAIST, 2023  
@@ -39,7 +39,7 @@ excerpt: "Towards a good materials scientist"
 {: reversed="reversed"}
 
 
-## Awards
+## 🏆Awards
 1. __Grand Prix, KAIST URP Workshop__, KAIST, 2024  
 1. __CoE Leadership Award__, KAIST College of Engineering, 2024  
 1. __Best Paper Award__, Optical Society of Korea, 2023  
@@ -62,7 +62,7 @@ excerpt: "Towards a good materials scientist"
 1. __Dean's List__, KAIST School of Freshmen, 2019
 {: reversed="reversed"}
 
-## Services
+## 🙌Services
 1. __Director, Junior Engineering Class__, Young Engineers Honor Society, 2022  
 1. __Special Lecturer, KAIST Tip Talk Program__, KAIST, 2022  
 1. __President, Board of Audit and Inspection__, KAIST Undergraduate Association, 2020  
