@@ -63,7 +63,9 @@ excerpt: "Towards a good materials scientist"
 {: reversed="reversed"}
 
 ## 🙌Services
-1. __Director, Junior Engineering Class__, Young Engineers Honor Society, 2022  
+1. __Special lecturer, KAIST Study Abroad Seminar__, KAIST, 2025  
+1. __Special lecturer, Orientation for the Lindau Nobel Laureate Meeting__, The Korean Academy of Science and Technology, 2025  
+1. __Director, Junior Engineering Class__, Young Engineers Honor Society of the National Academy of Engineering of Korea, 2022  
 1. __Special Lecturer, KAIST Tip Talk Program__, KAIST, 2022  
 1. __President, Board of Audit and Inspection__, KAIST Undergraduate Association, 2020  
 1. __Mentor, Samsung Dreamclass__, Samsung Welfare Foundation, 2019 - 2021  
