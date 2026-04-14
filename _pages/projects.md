@@ -80,6 +80,8 @@ feature_row1:
 📰__[Online news](https://news.naver.com/mnews/article/584/0000036032?sid=105)__
 1. "KAIST engineers low-power carbon dioxide sensor for real-time health monitoring", _Chosun Biz_, 2025  
 📰__[Online news](https://biz.chosun.com/en/en-science/2025/02/10/SCQG7LHXVBFF3GYCMLA4PX47NY/)__
+1. "Connecting Dots in Your Undergraduate Life", _KAIST Tip Talk_, 2022  
+🎥__[Invited talk](https://youtu.be/v4rd3Xb35dk?si=13Dcw7CYmGxgqJu6)__  
 1. "자랑스러운 청소년대상 학술부문 수상 - 김민재", _한국스카우트연맹_, 2021  
 🎥__[Interview](https://youtu.be/gTPfROZaC80?si=buqVPZ2HGSzJkIJC)__  
 📰__[Online news](https://mse.kaist.ac.kr/index.php?mid=mse_news_en&document_srl=20391)__
