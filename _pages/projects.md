@@ -74,22 +74,22 @@ feature_row1:
 {: reversed="reversed"}
 
 ## Media coverage
-1. "Gwangju Science Academy Alumni Relay Interview Series - MinJae Kim", _Gwangju Science Academy Alumni Association_, 2026  
-🎥__[Interview](https://youtu.be/jM98pZ5ieRA?si=CXsqnf8WRdhTsBT_)__
-1. "학부생 아이디어로 OLED 밝기 효율 2배↑…플렉서블 적용 가능", _동아사이언스_, 2026  
-📰__[Online news](https://news.naver.com/mnews/article/584/0000036032?sid=105)__
-1. "KAIST engineers low-power carbon dioxide sensor for real-time health monitoring", _Chosun Biz_, 2025  
-📰__[Online news](https://biz.chosun.com/en/en-science/2025/02/10/SCQG7LHXVBFF3GYCMLA4PX47NY/)__
-1. "Connecting Dots in Your Undergraduate Life", _KAIST Tip Talk_, 2022  
-🎥__[Invited talk](https://youtu.be/v4rd3Xb35dk?si=13Dcw7CYmGxgqJu6)__  
-1. "자랑스러운 청소년대상 학술부문 수상 - 김민재", _한국스카우트연맹_, 2021  
-🎥__[Interview](https://youtu.be/gTPfROZaC80?si=buqVPZ2HGSzJkIJC)__ 
-📰__[Online news](https://mse.kaist.ac.kr/index.php?mid=mse_news_en&document_srl=20391)__
-1. "실패 극복하고 용기 주는 교육자 희망", _전남매일_, 2021  
-📰__[Online news](http://www.jndn.com/article.php?aid=1641287485329552011)__
-1. "‘도전하는 재료과학도’ 육군수도군단 10화생방대대 김민재 상병", _국방일보_, 2021  
-🎥__[Interview](https://youtu.be/Z2GATmv5zXw?si=2INrZJXmpOuUtqN7)__ 
-📰__[Online news](https://kookbang.dema.mil.kr/newsWeb/20220215/1/ATCE_CTGR_0020050015/view.do)__
+1. "Gwangju Science Academy Alumni Relay Interview Series - MinJae Kim", 2026  
+🎥__[Interview (Gwangju Science Academy Alumni Association)](https://youtu.be/jM98pZ5ieRA?si=CXsqnf8WRdhTsBT_)__
+1. "학부생 아이디어로 OLED 밝기 효율 2배↑…플렉서블 적용 가능", 2026  
+📰__[Online news (동아사이언스)](https://news.naver.com/mnews/article/584/0000036032?sid=105)__
+1. "KAIST engineers low-power carbon dioxide sensor for real-time health monitoring", 2025  
+📰__[Online news (Chosun Biz)](https://biz.chosun.com/en/en-science/2025/02/10/SCQG7LHXVBFF3GYCMLA4PX47NY/)__
+1. "Connecting Dots in Your Undergraduate Life", 2022  
+🎥__[Invited talk (KAIST Tip Talk)](https://youtu.be/v4rd3Xb35dk?si=13Dcw7CYmGxgqJu6)__  
+1. "자랑스러운 청소년대상 학술부문 수상 - 김민재", 2021  
+🎥__[Interview (한국스카우트연맹)](https://youtu.be/gTPfROZaC80?si=buqVPZ2HGSzJkIJC)__ 
+📰__[Online news (KAIST DMSE)](https://mse.kaist.ac.kr/index.php?mid=mse_news_en&document_srl=20391)__
+1. "실패 극복하고 용기 주는 교육자 희망", 2021  
+📰__[Online news (전남매일)](http://www.jndn.com/article.php?aid=1641287485329552011)__
+1. "‘도전하는 재료과학도’ 육군수도군단 10화생방대대 김민재 상병", 2021  
+🎥__[Interview (국방일보)](https://youtu.be/Z2GATmv5zXw?si=2INrZJXmpOuUtqN7)__ 
+📰__[Online news (국방일보)](https://kookbang.dema.mil.kr/newsWeb/20220215/1/ATCE_CTGR_0020050015/view.do)__
 {: reversed="reversed"}
 
 <!-- {% include feature_row id="feature_row2" type="left" %}
