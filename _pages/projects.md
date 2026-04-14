@@ -79,6 +79,7 @@ feature_row1:
 1. "학부생 아이디어로 OLED 밝기 효율 2배↑…플렉서블 적용 가능", 2026  
 📰__[Online news (동아사이언스)](https://news.naver.com/mnews/article/584/0000036032?sid=105)__
 1. "KAIST engineers low-power carbon dioxide sensor for real-time health monitoring", 2025  
+🎥__[Interview (KAIST YouTube)](https://youtu.be/KZSNnGvKJJ8?si=w4byGA6n3-HI3GX9)__ 
 📰__[Online news (Chosun Biz)](https://biz.chosun.com/en/en-science/2025/02/10/SCQG7LHXVBFF3GYCMLA4PX47NY/)__
 1. "Connecting Dots in Your Undergraduate Life", 2022  
 🎥__[Invited talk (KAIST Tip Talk)](https://youtu.be/v4rd3Xb35dk?si=13Dcw7CYmGxgqJu6)__  
