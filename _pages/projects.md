@@ -73,6 +73,12 @@ feature_row1:
 1. H. Cho*, **<u>M.J. Kim</u>**, S. Shin, "Perovskite material including muti-functional asymmetric organic spacer and light-emitting device including the same", KR-10-2023-0118990
 {: reversed="reversed"}
 
+## Media coverage
+1. "Gwangju Science Academy Alumni Relay Interview Series - MinJae Kim", _Gwangju Science Academy Alumni Association_, 2026  
+🎥__[Recorded video](https://youtu.be/jM98pZ5ieRA?si=CXsqnf8WRdhTsBT_)__
+1. "실패 극복하고 용기 주는 교육자 희망", _전남매일_, 2026  
+📰__[Online news](http://www.jndn.com/article.php?aid=1641287485329552011)__
+{: reversed="reversed"}
 
 <!-- {% include feature_row id="feature_row2" type="left" %}
 {% include feature_row id="feature_row1" type="left" %} -->
