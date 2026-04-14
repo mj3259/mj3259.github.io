@@ -75,9 +75,12 @@ feature_row1:
 
 ## Media coverage
 1. "Gwangju Science Academy Alumni Relay Interview Series - MinJae Kim", _Gwangju Science Academy Alumni Association_, 2026  
-🎥__[Recorded video](https://youtu.be/jM98pZ5ieRA?si=CXsqnf8WRdhTsBT_)__
-1. "실패 극복하고 용기 주는 교육자 희망", _전남매일_, 2026  
+🎥__[Interview](https://youtu.be/jM98pZ5ieRA?si=CXsqnf8WRdhTsBT_)__
+1. "실패 극복하고 용기 주는 교육자 희망", _전남매일_, 2021  
 📰__[Online news](http://www.jndn.com/article.php?aid=1641287485329552011)__
+1. "‘도전하는 재료과학도’ 육군수도군단 10화생방대대 김민재 상병", _국방일보_, 2021  
+🎥__[Interview](https://youtu.be/Z2GATmv5zXw?si=2INrZJXmpOuUtqN7)__
+📰__[Online news](https://kookbang.dema.mil.kr/newsWeb/20220215/1/ATCE_CTGR_0020050015/view.do)__
 {: reversed="reversed"}
 
 <!-- {% include feature_row id="feature_row2" type="left" %}
