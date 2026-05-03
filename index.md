@@ -59,12 +59,15 @@ feature_row0:
 
 ### Recent News
 > (Apr. 2026) 🏆 Won First Place at the Falling Walls Lab San Francisco Bay Area 2026!  
-> (Jan. 2026) ✈️ Got invited to the Global Young Scientists Summit as a representative young scientist of Korea!  
+> (Jan. 2026) ✈️ Got invited to the Global Young Scientists Summit as a representative young scientist of Korea!
+
+
+<!--
 > (Nov. 2025) 📝 "Near-planar light outcoupling structures with finite lateral dimensions for ultra-efficient and optical crosstalk-free OLED displays" is now available at *Nature Communications*! (For more information, see [https://doi.org/10.1038/s41467-025-66538-6](https://doi.org/10.1038/s41467-025-66538-6).)  
 > (Jul. 2025) ✈️ Selected as a recipient of the Kwanjeong Doctoral Study Abroad Fellowship!  
 > (Apr. 2025) 📽️ My research on optochemical carbon dioxide sensor got highlighted on KAIST YouTube! ([Video](https://youtu.be/KZSNnGvKJJ8?si=OGbS7bBJG9norrc0))  
 > (Feb. 2025) 🎓 Graduated KAIST as the representative graduate of the Class of 2025! ([Speech Video](https://mj3259.github.io/Commencement/))  
-
+-->
 
 
 ### Recent works
