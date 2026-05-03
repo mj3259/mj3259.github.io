@@ -47,6 +47,8 @@ feature_row1:
 
 
 ## Presentations
+1. **<u>M.J. Kim</u>**, "Breaking the wall of display brightness", _Falling Walls Lab San Francisco Bay Area_, 2026 (Oral), San Francisco, CA, United States  
+🏆__First Place__
 1. **<u>M.J. Kim</u>**, J. Kim, S. Yoo*, "Near-planar light outcoupling structure for ultra-efficient organic light-emitting diodes", _William Nix Lecture Poster Session_, 2026 (Poster), Stanford, CA, United States
 1. **<u>M.J. Kim</u>**, J. Kim, S. Yoo*, "Near-planar light outcoupling structure for ultra-efficient organic light-emitting diodes", _UC Berkeley-Stanford Academic Conference_, 2025 (Oral), Mountain View, CA, United States  
 🏆__Best Presentation Award__
