@@ -47,6 +47,7 @@ feature_row1:
 
 
 ## Presentations
+1. **<u>M.J. Kim</u>**, M. Brongersma*, G. Hong*, "Active switching of optical transparency for optical neural networks", _Wu Tsai Neuro Retreat_, 2026 (Oral), Mountain View, CA, United States
 1. **<u>M.J. Kim</u>**, J. Kim, S. Yoo*, "Near-planar light outcoupling structures for ultra-efficient OLED displays", _The Society for Information Display_, 2026 (Poster), Los Angeles, CA, United States  
 1. **<u>M.J. Kim</u>**, "Breaking the wall of display brightness", _Falling Walls Lab San Francisco Bay Area_, 2026 (Oral), San Francisco, CA, United States  
 🏆__First Place__
