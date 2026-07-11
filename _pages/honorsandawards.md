@@ -29,7 +29,7 @@ excerpt: "Towards a good materials scientist"
 {: reversed="reversed"}
 
 ## 🎓Scholarships
-1. __Wu Tsai MBCT Student Grant__, Stanford University, 2026-2029
+1. __Wu Tsai MBCT Student Membership__, Stanford University, 2026-2029
 1. __Kwanjeong Doctoral Study Abroad Fellowship__, Kwanjeong Foundation, 2025 - 2030
 1. __Woonhae Scholarship__, Woonhae Foundation, 2023 - 2024  
 1. __Young-Han Kim Global Leader Scholarship__, KAIST, 2023  
@@ -41,7 +41,7 @@ excerpt: "Towards a good materials scientist"
 
 
 ## 🏆Awards
-1. __First Place, Falling Walls Lab San Francisco Bay Area__, Germal Consulate General San Francisco, 2026  
+1. __First Place, Falling Walls Lab San Francisco Bay Area__, German Consulate General San Francisco, 2026  
 1. __Grand Prix, KAIST URP Workshop__, KAIST, 2024  
 1. __CoE Leadership Award__, KAIST College of Engineering, 2024  
 1. __Best Paper Award__, Optical Society of Korea, 2023  
