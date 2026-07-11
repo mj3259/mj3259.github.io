@@ -65,7 +65,7 @@ excerpt: "Towards a good materials scientist"
 {: reversed="reversed"}
 
 ## 🙌Services
-1. __Board__, Stanford Polymer Collective, 2026 - 2027 
+1. __Board member__, Stanford Polymer Collective, 2026 - 2027 
 1. __Associate__, Stanford University Korean Graduate Student Association (KGSA), 2026 - 2027
 1. __Invited speaker, GSA AA Relay Interview__, Gwangju Science Academy Alumni Association, 2026 
 1. __Special lecturer, KAIST Study Abroad Seminar__, KAIST, 2025  
