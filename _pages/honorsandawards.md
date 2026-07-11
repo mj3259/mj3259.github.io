@@ -29,6 +29,7 @@ excerpt: "Towards a good materials scientist"
 {: reversed="reversed"}
 
 ## 🎓Scholarships
+1. __Wu Tsai MBCT Student Grant__, Stanford University, 2026-2029
 1. __Kwanjeong Doctoral Study Abroad Fellowship__, Kwanjeong Foundation, 2025 - 2030
 1. __Woonhae Scholarship__, Woonhae Foundation, 2023 - 2024  
 1. __Young-Han Kim Global Leader Scholarship__, KAIST, 2023  
