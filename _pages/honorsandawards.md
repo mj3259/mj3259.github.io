@@ -35,8 +35,8 @@ excerpt: "Towards a good materials scientist"
 1. __Young-Han Kim Global Leader Scholarship__, KAIST, 2023  
 1. __Dream Supporter Scholarship__, Global Hansang Dream Foundation, 2022 - 2026  
 1. __Departmental Honor Scholarship__, KAIST, 2021 - 2023  
-1. __KAIST Presidential Fellow__, KAIST, 2021 - 2025  
-1. __National Presidential Science Scholar__, The President of South Korea, 2019 - 2025
+1. __KAIST Presidential Fellowship__, KAIST, 2021 - 2025  
+1. __National Presidential Science Scholarship__, The President of South Korea, 2019 - 2025
 {: reversed="reversed"}
 
 
