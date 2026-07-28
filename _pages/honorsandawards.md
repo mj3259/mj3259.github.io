@@ -53,7 +53,8 @@ excerpt: "Towards a good materials scientist"
 1. __People's Choice Award__, Harvard-MIT Summer Institute at MGH, 2023  
 1. __CoE Leadership Award__, KAIST College of Engineering, 2023  
 1. __Best Poster Presentation Award__, Korean Institute of Metals and Materials, 2023  
-1. __Dean's List__, KAIST College of Engineering, 2023  
+1. __Dean's List__, KAIST College of Engineering, 2023
+1. __People's Choice Award__, Harvard-MIT Summer Institute at MGH, 2022
 1. __Excellence Award, Ulsan Paper Award__, Ulsan Research Institute, 2022  
 1. __Bronze Award, Asian Students' Venture Forum__, Korean Economic Daily, 2022  
 1. __Dean's List__, KAIST College of Engineering, 2022  
