@@ -12,15 +12,15 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/oled.jpg
     alt: "opc"
-    title: "Near-planar light outcoupling structures with finite lateral dimensions for ultra-efficient and optical crosstalk-free OLED displays"
+    title: "Near-planar light outcoupling structures for ultra-efficient OLED displays"
     excerpt: 'Enabled ultra-efficient organic light-emitting diodes based on eclectic optical optimization.'
     url: "https://doi.org/10.1038/s41467-025-66538-6"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/CO2 sensor.jpg
-    alt: "Optochemical pCO<sub>2</sub> sensor"
-    title: "Optochemical pCO<sub>2</sub> sensor"
-    excerpt: "Enabled ultralow-power, highly stable, flexible, and compact pCO<sub>2</sub> sensor"
+    alt: "Ultralow-power carbon dioxide sensor for real-time breath monitoring"
+    title: "Ultralow-power carbon dioxide sensor for real-time breath monitoring"
+    excerpt: "Enabled ultralow-power, highly stable, flexible, and compact optochemical pCO<sub>2</sub> sensor"
     url: "https://doi.org/10.1016/j.device.2024.100681"
     btn_class: "btn--primary"
     btn_label: "Learn more"
