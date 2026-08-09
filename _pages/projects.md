@@ -47,6 +47,8 @@ feature_row1:
 
 
 ## Presentations
+1. **<u>M.J. Kim</u>**, J. Kim, S. Yoo*, "Near-planar in-pixel light-outcoupling structures for ultra-efficient OLED displays", _International Meeting on Information Displays_, 2026 (Oral), Busan, South Korea  
+✨__Student Travel Grant__
 1. **<u>M.J. Kim</u>**, M. Brongersma\*, G. Hong\*, "Dynamic transparency modulation in biological media", _KOLIS-Bio-X Annual Conference_, 2026 (Oral), San Francisco, CA, United States
 1. **<u>M.J. Kim</u>**, M. Brongersma\*, G. Hong\*, "Active switching of optical transparency for optical neural networks", _Wu Tsai Neuro Retreat_, 2026 (Oral), Mountain View, CA, United States
 1. **<u>M.J. Kim</u>**, J. Kim, S. Yoo*, "Near-planar light outcoupling structures for ultra-efficient OLED displays", _The Society for Information Display Display Week_, 2026 (Poster), Los Angeles, CA, United States  
