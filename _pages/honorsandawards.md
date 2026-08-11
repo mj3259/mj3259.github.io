@@ -67,11 +67,11 @@ excerpt: "Towards a good materials scientist"
 {: reversed="reversed"}
 
 ## 🙌Services
-1. __Board member__, Stanford Polymer Collective, 2026 - 2027 
-1. __Associate__, Stanford University Korean Graduate Student Association (KGSA), 2026 - 2027
-1. __Invited speaker, GSA AA Relay Interview__, Gwangju Science Academy Alumni Association, 2026 
-1. __Special lecturer, KAIST Study Abroad Seminar__, KAIST, 2025  
-1. __Special lecturer, Orientation for the Lindau Nobel Laureate Meeting__, The Korean Academy of Science and Technology, 2025  
+1. __Industry Chair__, Stanford Polymer Collective, 2026 - 2027 
+1. __Internal Affair Associate__, Stanford University Korean Graduate Student Association (KGSA), 2026 - 2027
+1. __Invited Speaker, GSA AA Relay Interview__, Gwangju Science Academy Alumni Association, 2026 
+1. __Special Lecturer, KAIST Study Abroad Seminar__, KAIST, 2025  
+1. __Special Lecturer, Orientation for the Lindau Nobel Laureate Meeting__, The Korean Academy of Science and Technology, 2025  
 1. __Tutor, KAIST DMSE Outreach__, KAIST, 2024  
 1. __Director, Junior Engineering Class__, Young Engineers Honor Society of the National Academy of Engineering of Korea, 2022  
 1. __Special Lecturer, KAIST Tip Talk Program__, KAIST, 2022  
