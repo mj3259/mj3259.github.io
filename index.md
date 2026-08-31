@@ -28,7 +28,6 @@ feature_row:
     url: "https://doi.org/10.1016/j.device.2024.100681"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-
 <!--    
   - image_path: /assets/images/PELED.jpg
     alt: "Quasi-2D Perovskite LED based on Asymmetric Spacer"
