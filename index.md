@@ -10,6 +10,10 @@ excerpt: >
   *PhD student, Dept. of Materials Science and Engineering, Stanford University, CA.*<br />
   <!--Interested in bioelectronic interfaces, flexible and stretchable (opto)electronics, and their biomedical applications-->
 feature_row:
+  - image_path: /assets/images/OTC.jpg
+    alt: "otc"
+    title: "Dynamic optical transparency modulation of scattering media"
+    excerpt: 'Enabled fully reversible, agile, and non-volatile dynamic control of light scattering.'
   - image_path: /assets/images/oled.jpg
     alt: "opc"
     title: "Near-planar light outcoupling structures for ultra-efficient OLED displays"
@@ -24,10 +28,13 @@ feature_row:
     url: "https://doi.org/10.1016/j.device.2024.100681"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+
+<!--    
   - image_path: /assets/images/PELED.jpg
     alt: "Quasi-2D Perovskite LED based on Asymmetric Spacer"
     title: "Quasi-2D Perovskite LED Based on Asymmetric Spacer"
     excerpt: "Greatly enhanced luminance properties by the collapse of electric potential asymmetry of the spacer molecule of quasi-2D perovskites."
+-->
 ---
 
 <!--
