@@ -58,6 +58,7 @@ feature_row0:
 -->
 
 ### Recent News
+> (Sep. 2026) 🏆 Got recognized as Highly Commended in the 2026 Global Undergraduate Awards!
 > (Apr. 2026) 🏆 Won First Place at the Falling Walls Lab San Francisco Bay Area 2026!  
 > (Jan. 2026) ✈️ Got invited to the Global Young Scientists Summit as a representative young scientist of Korea!
 
