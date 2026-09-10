@@ -41,6 +41,7 @@ excerpt: "Towards a good materials scientist"
 
 
 ## 🏆Awards
+1. __Highly Commended (Top 10%) in Mathematics and Physics__, The Global Undergraduate Award, 2026  
 1. __First Place, Falling Walls Lab San Francisco Bay Area__, German Consulate General San Francisco, 2026  
 1. __IPESK Next-generation Engineer__, Institute for Promotion of Engineering and Science of Korea, 2025
 1. __Grand Prix, KAIST URP Workshop__, KAIST, 2024  
