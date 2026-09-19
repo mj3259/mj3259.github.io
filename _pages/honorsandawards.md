@@ -16,6 +16,7 @@ excerpt: "Towards a good materials scientist"
 {% include feature_row id="intro" type="center" %}
 
 ## 🏅Honors
+1. __Global Shapers__, World Economic Forum, 2026  
 1. __National Delegate to the Global Young Scientists Summit__, National Research Foundation of Korea, National Research Foundation of Singapore, 2026  
 1. __Valedictorian at the KAIST Commencement 2025__, KAIST, 2025  
 1. __National Delegate to the 73<sup>rd</sup> Lindau Nobel Laureate Meeting__, The Korean Academy of Science and Technology, The Council for the Lindau Nobel Laureate Meeting, 2024  
