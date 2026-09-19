@@ -23,7 +23,6 @@ excerpt: "Towards a good materials scientist"
 1. __NUS Young Fellow__, National University of Singapore, 2024  
 1. __Young Future Energy Leader__, Khalifa University, 2023  
 1. __Representative of KAIST, Young Engineers Honor Society__, National Academy of Engineering of Korea, 2023  
-1. __National Delegate to the Asian Students' Venture Forum__, Korean Economic Daily, 2022  
 1. __Talent Award of Korea__, Ministry of Education, 2021  
 1. __Nobel Ceremony Guest and National Delegate to the Stockholm International Youth Science Seminar__, The Swedish Federation of Young Scientists, 2020  
 1. __Cadetship of the Research Officer for National Defense__, Ministry of Science and ICT, Ministry of Defense, 2020  
@@ -59,6 +58,7 @@ excerpt: "Towards a good materials scientist"
 1. __People's Choice Award__, Harvard-MIT Summer Institute at MGH, 2022  
 1. __Excellence Award, Ulsan Paper Award__, Ulsan Research Institute, 2022  
 1. __Bronze Award, Asian Students' Venture Forum__, Korean Economic Daily, 2022  
+1. __National Delegate to the Asian Students' Venture Forum__, Korean Economic Daily, 2022  
 1. __Dean's List__, KAIST College of Engineering, 2022  
 1. __Youth Hero Prize__, Korea Scout Association, 2021  
 1. __Encouragement Award, Incheon Paper Award__, Incheon Metropolitan City, 2021  
