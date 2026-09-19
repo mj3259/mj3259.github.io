@@ -58,6 +58,7 @@ feature_row0:
 -->
 
 ### Recent News
+> (Sep. 2026) 🎉 Joined as a Global Shaper of the World Economic Forum!  
 > (Sep. 2026) 📝 "Near-Planar Light Outcoupling Structure for Ultra-Efficient OLED Displays" is now available at *Dig. Tech. Pap. - SID Int. Symp*!  
 > (Sep. 2026) 🏆 Got recognized as Highly Commended in the 2026 Global Undergraduate Awards!
 
