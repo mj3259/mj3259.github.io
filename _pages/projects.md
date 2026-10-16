@@ -48,6 +48,7 @@ feature_row1:
 
 
 ## Presentations
+1. **<u>M.J. Kim</u>**, M. Brongersma\*, G. Hong\*, "Dynamic optical transparency modulation of scattering media", _Annual Symposium of the Wu Tsai Neurosciences Institute_, 2026 (Poster), Stanford, CA, United States  
 1. **<u>M.J. Kim</u>**, J. Kim, S. Yoo*, "Near-planar in-pixel light-outcoupling structures for ultra-efficient OLED displays", _International Meeting on Information Displays_, 2026 (Oral), Busan, South Korea  
 ✨__Student Travel Grant__
 1. **<u>M.J. Kim</u>**, M. Brongersma\*, G. Hong\*, "Dynamic transparency modulation in biological media", _KOLIS-Bio-X Annual Conference_, 2026 (Oral), San Francisco, CA, United States
