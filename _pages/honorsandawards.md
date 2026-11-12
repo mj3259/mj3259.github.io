@@ -16,6 +16,7 @@ excerpt: "Towards a good materials scientist"
 {% include feature_row id="intro" type="center" %}
 
 ## 🏅Honors
+1. __Finalist and Emerging Talents at the Falling Walls Lab of the Falling Walls Science Summit__, Falling Walls Foundation, 2026  
 1. __Global Shapers__, World Economic Forum, 2026  
 1. __National Delegate to the Global Young Scientists Summit__, National Research Foundation of Korea, National Research Foundation of Singapore, 2026  
 1. __Valedictorian at the KAIST Commencement 2025__, KAIST, 2025  
