@@ -58,6 +58,7 @@ feature_row0:
 -->
 
 ### Recent News
+> (Nov. 2026) ✈️ Invited to the Falling Walls Science Summit as one of 100 Emerging Talents from all over the world!  
 > (Sep. 2026) 🎉 Joined the Global Shapers of the World Economic Forum!  
 > (Sep. 2026) 📝 "Near-Planar Light Outcoupling Structure for Ultra-Efficient OLED Displays" is now available at *Dig. Tech. Pap. - SID Int. Symp*!  
 > (Sep. 2026) 🏆 Got recognized as Highly Commended in the 2026 Global Undergraduate Awards!
