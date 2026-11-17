@@ -81,6 +81,7 @@ feature_row1:
 {: reversed="reversed"}
 
 ## Patents
+1. **<u>M.J. Kim</u>**, M. L. Brongersma, G. Hong, "Dynamic optical transparency tuning in turbid media", US-64/131688
 1. S. Yoo*, **<u>M.J. Kim</u>**, D. Choi, "Optochemical sensor for measuring gas-phase compound concentration and manufacturing method thereof", KR-10-2026-0056026
 1. **<u>M.J. Kim</u>**, S. Yoo*, "Optical film comprising plurality of light-absorbing elements, and light-emitting diode comprising optical film", KR-10-2025-0197889
 1. **<u>M.J. Kim</u>**, S. Yoo*, "Light emitting device comprising optical structure minimizing angular color shift and method for forming the structure thereof", KR-10-2025-0117210
